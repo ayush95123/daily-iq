@@ -9,3 +9,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-06-26,ac440d2fcd04eabd,System Design,Grab,Design a Real-Time Chat System (Like WhatsApp).
 2026-06-26,1c3b14b8d81ea151,System Design,Not specified (Staff-Level Version),Design a real-time chat system between riders and customers using WebSockets.
 2026-06-26,9980469c343fb0e7,System Design,"Google, Meta, Amazon",Design a URL Shortener (TinyURL/Bit.ly)
+2026-06-27,c265f066ddc5a4dd,DSA,Startup,"Given a binary array, flip at most one subarray to maximize the number of 1s. (T"
+2026-06-27,b33c28c163e2e8ed,DSA,Startup,Find the height of a Binary Tree (recursive DFS approach).
+2026-06-27,08547e3ec0031cbf,DSA,Startup,Two Sum (explain both brute O(n²) and HashMap O(n) approaches).
+2026-06-27,7bc8d963fc9ec683,System Design,SAP,Design an application similar to Zomato and explain how to handle scalability an
+2026-06-27,b12dfea01f3a61f4,System Design,Bloomberg,"User registration/login, session management, and tracking 'top active users'."
