@@ -14,3 +14,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-06-27,08547e3ec0031cbf,DSA,Startup,Two Sum (explain both brute O(n²) and HashMap O(n) approaches).
 2026-06-27,7bc8d963fc9ec683,System Design,SAP,Design an application similar to Zomato and explain how to handle scalability an
 2026-06-27,b12dfea01f3a61f4,System Design,Bloomberg,"User registration/login, session management, and tracking 'top active users'."
+2026-06-28,ebf313c692d72cef,DSA,Google,"Given a binary tree, find the maximum path sum. The path may start and end at an"
+2026-06-28,c3c29ca658240934,DSA,Google,Given a robot cleaner in a room modeled as a grid. Each cell in the grid can be 
+2026-06-28,87a4e25043b41dae,DSA,Microsoft,Rabin-Karp string-matching DSA problem.
+2026-06-28,16e7eb747e6a63e4,System Design,Microsoft,Design an email client like Microsoft Outlook.
+2026-06-28,d241ca748847644c,System Design,Microsoft,"Design a part of Microsoft Teams (open-ended, you can deep-dive frontend or back"
