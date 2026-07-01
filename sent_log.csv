@@ -19,3 +19,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-06-28,87a4e25043b41dae,DSA,Microsoft,Rabin-Karp string-matching DSA problem.
 2026-06-28,16e7eb747e6a63e4,System Design,Microsoft,Design an email client like Microsoft Outlook.
 2026-06-28,d241ca748847644c,System Design,Microsoft,"Design a part of Microsoft Teams (open-ended, you can deep-dive frontend or back"
+2026-07-01,10fbf0286e750f89,DSA,Amazon,A variation of the Tree Path Sum type. It required performing a tree traversal (
+2026-07-01,184120719199e6af,DSA,Amazon,"A LeetCode Hard problem based on binary search and sorting, similar to Median of"
+2026-07-01,f62807a205b396b0,DSA,Amazon,"A problem similar to Number of Islands, involving graph traversal (DFS/BFS) to i"
+2026-07-01,97c851bab9fea053,System Design,SAP,Design an application similar to Zomato and explain how you would handle scalabi
+2026-07-01,116a6e02ab152c47,System Design,Amazon,Design a rate limiter
