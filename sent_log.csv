@@ -24,3 +24,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-07-01,f62807a205b396b0,DSA,Amazon,"A problem similar to Number of Islands, involving graph traversal (DFS/BFS) to i"
 2026-07-01,97c851bab9fea053,System Design,SAP,Design an application similar to Zomato and explain how you would handle scalabi
 2026-07-01,116a6e02ab152c47,System Design,Amazon,Design a rate limiter
+2026-07-02,c5e896b457ecf9d2,DSA,"Google, Meta, Amazon",How do you use AI in your day-to-day workflow?
+2026-07-02,4e2d7d6762b86f4e,DSA,Google,"A coding screen problem that looked simple at first glance, but turned out to be"
+2026-07-02,3085fec7855a4fbf,DSA,Netflix,"A very standard problem, the one that gets mentioned everywhere people discuss N"
+2026-07-02,b3a215eeebf58ea5,System Design,"Amazon, Meta","Design a Notification System. It should handle multi-channel delivery (push, SMS"
+2026-07-02,b12fc20fd9daa5b0,System Design,"Amazon, Google, Meta, Microsoft",Design Twitter.
