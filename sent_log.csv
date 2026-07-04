@@ -29,3 +29,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-07-02,3085fec7855a4fbf,DSA,Netflix,"A very standard problem, the one that gets mentioned everywhere people discuss N"
 2026-07-02,b3a215eeebf58ea5,System Design,"Amazon, Meta","Design a Notification System. It should handle multi-channel delivery (push, SMS"
 2026-07-02,b12fc20fd9daa5b0,System Design,"Amazon, Google, Meta, Microsoft",Design Twitter.
+2026-07-04,d609cb424ce8befd,DSA,Amazon,DSA: A problem involving an array-based Two-Pointer approach.
+2026-07-04,0c3591687d873ee5,DSA,Amazon,DSA: The Next Greater Element problem using a Monotonic Stack.
+2026-07-04,b96e718a9341bbbe,DSA,Google,"A coding screen problem that looked simple at first glance, but turned out to be"
+2026-07-04,1792c49682271901,System Design,JP Morgan,"Design a system to ingest millions of trade signals per second, and how would yo"
+2026-07-04,669e31b78e051d4d,System Design,JP Morgan,Design a notification system at scale.
