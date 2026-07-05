@@ -34,3 +34,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-07-04,b96e718a9341bbbe,DSA,Google,"A coding screen problem that looked simple at first glance, but turned out to be"
 2026-07-04,1792c49682271901,System Design,JP Morgan,"Design a system to ingest millions of trade signals per second, and how would yo"
 2026-07-04,669e31b78e051d4d,System Design,JP Morgan,Design a notification system at scale.
+2026-07-05,a2ff8353e643edd6,DSA,FAANG,Median of two sorted arrays.
+2026-07-05,26af5414f2c1f1b5,DSA,FAANG,Clone a graph.
+2026-07-05,e9f3b2ee043cadd8,DSA,FAANG,Word Break II.
+2026-07-05,432074b28c43b79c,System Design,N26,Implement pagination with backend API and database support. This includes depth 
+2026-07-05,209dceea95f1587c,System Design,Amazon,Design a Real-Time Chat System (Like WhatsApp). This requires understanding WebS
