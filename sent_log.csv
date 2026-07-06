@@ -39,3 +39,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-07-05,e9f3b2ee043cadd8,DSA,FAANG,Word Break II.
 2026-07-05,432074b28c43b79c,System Design,N26,Implement pagination with backend API and database support. This includes depth 
 2026-07-05,209dceea95f1587c,System Design,Amazon,Design a Real-Time Chat System (Like WhatsApp). This requires understanding WebS
+2026-07-06,1ec2c2bfcd4c35a6,DSA,Google,"Given a list of words, find all pairs of words that can be concatenated to form "
+2026-07-06,2b22ba2e206a94e5,DSA,Uber,Find the Kth largest element in an unsorted array.
+2026-07-06,d40e23eccd3650b1,DSA,Google,"Given a string S and a dictionary of words D, add spaces in S to construct a sen"
+2026-07-06,8d41a7b626933081,System Design,Meta,Design a system to shorten URLs like TinyURL.
+2026-07-06,f7dac04f845732d1,System Design,Amazon,Implement a 'rate limiter' that allows a maximum of N requests per second per us
