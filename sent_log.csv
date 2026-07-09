@@ -49,3 +49,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-07-07,64bcd9b0b06fe16f,System Design,Meta,Design a Social Media News Feed (Facebook/Twitter Feed).
 2026-07-07,5ab276a0fef390be,System Design,Meta,Design a Messaging System (WhatsApp/Messenger).
 2026-07-07,7bfa60e74c11a5f7,System Design,Google,Design YouTube or a Video Streaming Service.
+2026-07-09,e8a84407ab1e0134,DSA,Apple,"Given a problem similar to Basic Calculator II, a parsing and evaluation problem"
+2026-07-09,3f018207e9a2bbbc,DSA,Microsoft,Implement max-stack (without the pop-max) method. Provide both linear and consta
+2026-07-09,6c0504bd5256b343,DSA,Microsoft,"Heaters problem (LeetCode). Initially, I thought it was a graph-based question, "
+2026-07-09,e73eee370950818d,System Design,Apple,Design a peer-to-peer network that crawls websites. How do nodes discover each o
+2026-07-09,548a6b56e9e14ebb,System Design,Apple,"Design a distributed caching system, focusing on eviction policy choices, consis"
