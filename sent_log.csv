@@ -54,3 +54,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-07-09,6c0504bd5256b343,DSA,Microsoft,"Heaters problem (LeetCode). Initially, I thought it was a graph-based question, "
 2026-07-09,e73eee370950818d,System Design,Apple,Design a peer-to-peer network that crawls websites. How do nodes discover each o
 2026-07-09,548a6b56e9e14ebb,System Design,Apple,"Design a distributed caching system, focusing on eviction policy choices, consis"
+2026-07-10,75343cc44110a46e,DSA,Amazon,"Two coding questions: one relatively easy, one similar to Open the Lock (LeetCod"
+2026-07-10,f0a8d7a3659aeb52,DSA,Amazon,Two standard Leadership Principles (LP) questions; one coding question similar t
+2026-07-10,82b47ad6fe00d861,DSA,Amazon,Similar to finding nodes at distance K from a target node (expected O(n) time co
+2026-07-10,bff4f252a112c8e0,System Design,Amazon,"Designing a Log Aggregation System. Discussed ingestion pipelines, partitioning "
+2026-07-10,2431c6006bf76dbf,System Design,Amazon,Design a system that places ads based on webpage content. Covered content classi
