@@ -59,3 +59,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-07-10,82b47ad6fe00d861,DSA,Amazon,Similar to finding nodes at distance K from a target node (expected O(n) time co
 2026-07-10,bff4f252a112c8e0,System Design,Amazon,"Designing a Log Aggregation System. Discussed ingestion pipelines, partitioning "
 2026-07-10,2431c6006bf76dbf,System Design,Amazon,Design a system that places ads based on webpage content. Covered content classi
+2026-07-11,33067058261fe0ab,DSA,Atlassian,"I was asked a question similar to the merge interval problem, just with differen"
+2026-07-11,fa72de7f4d4b6d84,DSA,Moody's,"Given a stream of names, find the Top K most frequent names."
+2026-07-11,3a022e4d526d8fa8,DSA,Moody's,"Given dependencies as edges and some nodes failing, determine which nodes would "
+2026-07-11,df739247104239f6,System Design,Atlassian,Design a Top-k heavy hitter problem for a confluence page with a variation that 
+2026-07-11,c90c702ca304eef4,System Design,Startup (mid-size backend-focused),"Design a URL shortening service (basic version), including data flow explanation"
