@@ -69,3 +69,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-07-13,2611f3eb31d3bc82,DSA,Netflix,Four LeetCode-style problems with JavaScript-specific twists.
 2026-07-13,044fc551fd7900aa,System Design,Google,How do you use AI in your day-to-day workflow? (Variations included: 'Walk me th
 2026-07-13,044fc551fd7900aa,System Design,Meta,How do you use AI in your day-to-day workflow? (Variations included: 'Walk me th
+2026-07-15,146473eba24a6ea8,DSA,Microsoft,An optimization problem requiring a greedy approach. It initially seemed straigh
+2026-07-15,3a4f38ce3fc23fd0,DSA,Microsoft,A data structure manipulation problem. The primary challenge was not just the lo
+2026-07-15,fe05fa7e75730e43,DSA,Amazon,Variation of the Tree Path Sum type. It required performing a tree traversal (DF
+2026-07-15,7148a3c16f27412e,System Design,Microsoft,Design a core platform messaging/alerting system. Structuring the core abstracti
+2026-07-15,0db9ff1e2a59c389,System Design,Microsoft,"Design a real-time collaborative application, with a focus on state synchronizat"
