@@ -74,3 +74,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-07-15,fe05fa7e75730e43,DSA,Amazon,Variation of the Tree Path Sum type. It required performing a tree traversal (DF
 2026-07-15,7148a3c16f27412e,System Design,Microsoft,Design a core platform messaging/alerting system. Structuring the core abstracti
 2026-07-15,0db9ff1e2a59c389,System Design,Microsoft,"Design a real-time collaborative application, with a focus on state synchronizat"
+2026-07-16,978120dcd9d77996,DSA,Uber,"Given an n*m 2-D matrix with arrows in different directions, find out the minimu"
+2026-07-16,a8439113638f771f,DSA,Uber,Find the next greater palindrome number of the given number.
+2026-07-16,283c1cb73658d5a8,DSA,Amazon,Total number of ways from top left to bottom right.
+2026-07-16,8df46f2bb8fc65ad,System Design,Uber,Design a distributed message broker similar to Apache Kafka. The requirements fo
+2026-07-16,59d1b98595b4ace6,System Design,Uber,Design a heatmap of Uber drivers in a city and display this data in an internal 
