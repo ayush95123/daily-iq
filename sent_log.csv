@@ -79,3 +79,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-07-16,283c1cb73658d5a8,DSA,Amazon,Total number of ways from top left to bottom right.
 2026-07-16,8df46f2bb8fc65ad,System Design,Uber,Design a distributed message broker similar to Apache Kafka. The requirements fo
 2026-07-16,59d1b98595b4ace6,System Design,Uber,Design a heatmap of Uber drivers in a city and display this data in an internal 
+2026-07-18,9d40a4fa7c43a086,DSA,Netflix,"Two coding problems: One was Merge Intervals, the other was a graph problem that"
+2026-07-18,1137c2f8f139c083,DSA,Netflix,"One tree problem, rebalancing a binary tree."
+2026-07-18,b8649d21934be618,DSA,Amazon,Search in a Sorted and Rotated Array.
+2026-07-18,5c9e66369001edcd,System Design,Google,"Design a URL shortener. Now, how would you handle 100 billion URLs?"
+2026-07-18,bee102e3fc2cfd6e,System Design,Meta,Design a real-time chat with end-to-end encryption.
