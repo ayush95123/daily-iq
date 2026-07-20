@@ -84,3 +84,6 @@ date_sent,question_hash,topic,company,question_snippet
 2026-07-18,b8649d21934be618,DSA,Amazon,Search in a Sorted and Rotated Array.
 2026-07-18,5c9e66369001edcd,System Design,Google,"Design a URL shortener. Now, how would you handle 100 billion URLs?"
 2026-07-18,bee102e3fc2cfd6e,System Design,Meta,Design a real-time chat with end-to-end encryption.
+2026-07-20,2d41ebbd2fb524cf,DSA,Amazon,The first problem was a variation of the Tree Path Sum type. It required perform
+2026-07-20,4ffbf7a75bf9e31a,DSA,C++ focused company (unspecified),Design a multi-threaded stack.
+2026-07-20,671e620e5937efe8,System Design,Amazon,Design a rate limiter.
