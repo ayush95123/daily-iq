@@ -87,3 +87,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-07-20,2d41ebbd2fb524cf,DSA,Amazon,The first problem was a variation of the Tree Path Sum type. It required perform
 2026-07-20,4ffbf7a75bf9e31a,DSA,C++ focused company (unspecified),Design a multi-threaded stack.
 2026-07-20,671e620e5937efe8,System Design,Amazon,Design a rate limiter.
+2026-07-22,61a96a3a89d19085,DSA,Google,A hard graph problem. I solved it using both a brute-force approach and an optim
+2026-07-22,ff73123cd34935be,DSA,Google,"A challenging tree/graph-style problem, again solved using brute force and then "
+2026-07-22,5965126ffbdc8819,DSA,Netflix,"Tech screen (a very standard problem, the one that gets mentioned everywhere peo"
+2026-07-22,b720ffb375cec2ab,System Design,Google,Easy design question.
+2026-07-22,79520791b6f931f3,System Design,"Google, Meta, Amazon",How do you use AI in your day-to-day workflow? (Phrased as: 'Walk me through you
