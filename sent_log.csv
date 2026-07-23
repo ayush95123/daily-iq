@@ -92,3 +92,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-07-22,5965126ffbdc8819,DSA,Netflix,"Tech screen (a very standard problem, the one that gets mentioned everywhere peo"
 2026-07-22,b720ffb375cec2ab,System Design,Google,Easy design question.
 2026-07-22,79520791b6f931f3,System Design,"Google, Meta, Amazon",How do you use AI in your day-to-day workflow? (Phrased as: 'Walk me through you
+2026-07-23,dd6e9a9cc2a33fe3,System Design,"Google, Amazon, Meta",Design Instagram (Photo Sharing).
+2026-07-23,324e66cad13bc791,System Design,"Google, Amazon, Meta",Design Google Docs (real-time collaborative editing).
+2026-07-23,055a09d7941e8b22,System Design,"Google, Amazon, Meta",Design a Web Crawler.
+2026-07-23,17ce3a0f103224fb,System Design,"Google, Amazon, Meta",Design a Distributed Cache (Redis-like).
+2026-07-23,b8372c26a5f8a94e,System Design,"Google, Amazon, Meta",Design a Notification System.
