@@ -97,3 +97,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-07-23,055a09d7941e8b22,System Design,"Google, Amazon, Meta",Design a Web Crawler.
 2026-07-23,17ce3a0f103224fb,System Design,"Google, Amazon, Meta",Design a Distributed Cache (Redis-like).
 2026-07-23,b8372c26a5f8a94e,System Design,"Google, Amazon, Meta",Design a Notification System.
+2026-07-24,380be7c613c9069c,DSA,Okta,"Implement the following methods: List search(int cd); void rent(int shop, int cd"
+2026-07-24,09888b5a012747d6,DSA,Not specified,"Given a stream of integers, design a data structure that returns the median at a"
+2026-07-24,74885fb1d8d8a0e3,DSA,Not specified,Min flips to make binary string monotone increasing.
+2026-07-24,d35d7f88665ca313,System Design,Okta,Design a backup and recovery system.
+2026-07-24,8d2b1dee5db0a345,System Design,Amazon,Design a rate limiter for an Amazon L5 onsite.
