@@ -102,3 +102,5 @@ date_sent,question_hash,topic,company,question_snippet
 2026-07-24,74885fb1d8d8a0e3,DSA,Not specified,Min flips to make binary string monotone increasing.
 2026-07-24,d35d7f88665ca313,System Design,Okta,Design a backup and recovery system.
 2026-07-24,8d2b1dee5db0a345,System Design,Amazon,Design a rate limiter for an Amazon L5 onsite.
+2026-07-25,21fb1b11836f01be,System Design,"Google, Amazon, Meta",Design a Distributed Task Scheduler.
+2026-07-25,fae365acc16ad7ca,System Design,"Amazon, Meta","Design a Notification System (multi-channel delivery, message queues, priority q"
