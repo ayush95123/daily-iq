@@ -104,3 +104,7 @@ date_sent,question_hash,topic,company,question_snippet
 2026-07-24,8d2b1dee5db0a345,System Design,Amazon,Design a rate limiter for an Amazon L5 onsite.
 2026-07-25,21fb1b11836f01be,System Design,"Google, Amazon, Meta",Design a Distributed Task Scheduler.
 2026-07-25,fae365acc16ad7ca,System Design,"Amazon, Meta","Design a Notification System (multi-channel delivery, message queues, priority q"
+2026-07-26,4381103617ffd463,DSA,Amazon,Count Connected Groups in Undirected Graph. You are given nodeCount nodes labele
+2026-07-26,652f82058bc23684,DSA,Amazon,Verify Undirected Graph Valid Tree. You are given n nodes labeled from 0 to n - 
+2026-07-26,87fca18244df617f,DSA,Amazon,Search Minimum And Rotation Count In Rotated Sorted Array. You are given a rotat
+2026-07-26,f618a0cc7ce83abd,System Design,Amazon,"Design classes, attributes, and methods for a given problem."
