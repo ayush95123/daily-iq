@@ -108,3 +108,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-07-26,652f82058bc23684,DSA,Amazon,Verify Undirected Graph Valid Tree. You are given n nodes labeled from 0 to n - 
 2026-07-26,87fca18244df617f,DSA,Amazon,Search Minimum And Rotation Count In Rotated Sorted Array. You are given a rotat
 2026-07-26,f618a0cc7ce83abd,System Design,Amazon,"Design classes, attributes, and methods for a given problem."
+2026-07-27,d81feac2b6a1276c,System Design,FAANG (general),How would you design a messaging app?
+2026-07-27,5028b6ae78c75310,System Design,FAANG (general),How would you design X.com (formerly Twitter)?
+2026-07-27,83bdfe4db53f9eaa,System Design,FAANG (general),How would you design Instagram?
+2026-07-27,077619f3175c2ed6,System Design,FAANG (general),How would you design a file-sharing system?
+2026-07-27,7acc16b50ab21732,System Design,FAANG (general),How would you design a music streaming platform?
