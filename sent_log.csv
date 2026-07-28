@@ -113,3 +113,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-07-27,83bdfe4db53f9eaa,System Design,FAANG (general),How would you design Instagram?
 2026-07-27,077619f3175c2ed6,System Design,FAANG (general),How would you design a file-sharing system?
 2026-07-27,7acc16b50ab21732,System Design,FAANG (general),How would you design a music streaming platform?
+2026-07-28,e957b518cddd3d59,System Design,Uber,Design Uber's Surge Pricing System. We need a system that can calculate dynamic 
+2026-07-28,9de3ed6ad3a0c7a2,System Design,Uber,"Design a real-time surge pricing engine for Uber, ingesting millions of GPS ping"
+2026-07-28,f0bb938c755a5eeb,System Design,Meta,Design Instagram
+2026-07-28,f2b441712ba95594,System Design,Meta,Design a file storage system like S3.
+2026-07-28,1e5017590fe8fb6b,System Design,Apple,"Design Netflix (focus on recommendation systems and personalization, and video p"
