@@ -118,3 +118,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-07-28,f0bb938c755a5eeb,System Design,Meta,Design Instagram
 2026-07-28,f2b441712ba95594,System Design,Meta,Design a file storage system like S3.
 2026-07-28,1e5017590fe8fb6b,System Design,Apple,"Design Netflix (focus on recommendation systems and personalization, and video p"
+2026-07-29,2fd6572396b8ddfa,DSA,Amazon,"Given two employees, find the common ancestors. (Graph problem)"
+2026-07-29,c776924fbc77bb4d,DSA,Amazon,"Given an array, determine if we can reach the last index or not. (Dynamic Progra"
+2026-07-29,3743bde668f0d400,System Design,Amazon,Design a payment related system.
+2026-07-29,1c6268f006ca59d4,System Design,Amazon,Code real-time seat booking (like Book My Show).
+2026-07-29,88246fd7691d1db6,System Design,JPMorgan Chase,Design a URL shortener for a marketing firm.
