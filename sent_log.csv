@@ -123,3 +123,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-07-29,3743bde668f0d400,System Design,Amazon,Design a payment related system.
 2026-07-29,1c6268f006ca59d4,System Design,Amazon,Code real-time seat booking (like Book My Show).
 2026-07-29,88246fd7691d1db6,System Design,JPMorgan Chase,Design a URL shortener for a marketing firm.
+2026-07-30,a5c6340b677923f2,DSA,Microsoft,"Asked DSA questions like valid parentheses and peak element, then optimized usin"
+2026-07-30,c6ab1d00c2ff23b0,DSA,Microsoft,Minimum Edge Reversals So Every Node Is Reachable. You're given a directed graph
+2026-07-30,d8a12bb28cca43e2,System Design,Meta,Design a news feed system.
+2026-07-30,2ed1d4c5b90f9d95,System Design,Amazon,"Design a warehouse management system, a shopping cart that handles 10x traffic s"
+2026-07-30,adaaafbcee0669db,System Design,Google,"Design Google Docs, Google Search, a ticketing platform, or a distributed job sc"
