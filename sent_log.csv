@@ -128,3 +128,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-07-30,d8a12bb28cca43e2,System Design,Meta,Design a news feed system.
 2026-07-30,2ed1d4c5b90f9d95,System Design,Amazon,"Design a warehouse management system, a shopping cart that handles 10x traffic s"
 2026-07-30,adaaafbcee0669db,System Design,Google,"Design Google Docs, Google Search, a ticketing platform, or a distributed job sc"
+2026-07-31,218f06e452b5c565,DSA,Amazon,"Given task dependency pairs, find all tasks impacted if a given task is delayed,"
+2026-07-31,afb2276136ec51f8,DSA,Amazon,It was a medium-to-hard heaps problem where you had to schedule/order a set of i
+2026-07-31,77dc5eddf170692d,DSA,Microsoft,https://leetcode.com/problems/meeting-rooms-ii/
+2026-07-31,88503192dbec788d,System Design,Microsoft,Design Multi-Level Parking Lot.
+2026-07-31,31ad7f4f04808a8d,System Design,Microsoft,Design Snake & Food.
