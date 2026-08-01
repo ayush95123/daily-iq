@@ -133,3 +133,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-07-31,77dc5eddf170692d,DSA,Microsoft,https://leetcode.com/problems/meeting-rooms-ii/
 2026-07-31,88503192dbec788d,System Design,Microsoft,Design Multi-Level Parking Lot.
 2026-07-31,31ad7f4f04808a8d,System Design,Microsoft,Design Snake & Food.
+2026-08-01,1c8b30bc8a6bf0a9,DSA,SAP,I was asked a problem related to finding common ancestors (similar to a known Le
+2026-08-01,c0ba60ca28b44a8f,DSA,Okta,Reverse substrings between each pair of parentheses (LeetCode problem)
+2026-08-01,d3c1afa247a19f74,DSA,Okta,"You are given a list of entries. Each entry is of the form: [shop, cd, price]. F"
+2026-08-01,aef33c556bee066f,System Design,SAP,Design an application similar to Zomato and explain how I would handle scalabili
+2026-08-01,1a97f04a74ec52be,System Design,Microsoft,"Design a real-time collaborative application, with the conversation steered stri"
