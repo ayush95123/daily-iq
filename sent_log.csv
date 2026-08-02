@@ -138,3 +138,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-08-01,d3c1afa247a19f74,DSA,Okta,"You are given a list of entries. Each entry is of the form: [shop, cd, price]. F"
 2026-08-01,aef33c556bee066f,System Design,SAP,Design an application similar to Zomato and explain how I would handle scalabili
 2026-08-01,1a97f04a74ec52be,System Design,Microsoft,"Design a real-time collaborative application, with the conversation steered stri"
+2026-08-02,1b97e30fe102903b,DSA,DE Shaw,"A sequence of characters given, rearrange them so that any two consecutive chara"
+2026-08-02,eb4e3fe6ba054d1b,DSA,DE Shaw,"A sequence of buildings given, can remove one or more floors from one or more bu"
+2026-08-02,a1e315916908bcd1,DSA,JPMC (JPMorgan Chase),PR Review (Java Spring) - given around 120–150 lines of Java Spring code and ask
+2026-08-02,f2c7dad627a32535,System Design,DE Shaw,Design an ATCS system (manages airplanes take off scheduling and landing between
+2026-08-02,281c9c1d7197d7af,DSA,JPMC (JPMorgan Chase),DSA – Collision Detection. This was a linear scan problem. The key idea was to c
