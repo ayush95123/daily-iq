@@ -143,3 +143,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-08-02,a1e315916908bcd1,DSA,JPMC (JPMorgan Chase),PR Review (Java Spring) - given around 120–150 lines of Java Spring code and ask
 2026-08-02,f2c7dad627a32535,System Design,DE Shaw,Design an ATCS system (manages airplanes take off scheduling and landing between
 2026-08-02,281c9c1d7197d7af,DSA,JPMC (JPMorgan Chase),DSA – Collision Detection. This was a linear scan problem. The key idea was to c
+2026-08-03,dd942e3fbf36c9ed,DSA,Google,"Given a list of words, find all pairs of unique indices (i, j) such that the con"
+2026-08-03,fff21d9f42b7fc5d,DSA,Apple,Find the k-th largest element in an unsorted array.
+2026-08-03,64f6b5e88fd80ad0,DSA,Uber,"Given an array of integers `nums` and an integer `k`, return the number of good "
+2026-08-03,48e70eb6f9dc5b95,System Design,Meta,"Design a system like Twitter, focusing on the feed generation and storage for mi"
+2026-08-03,9bc5de7d3d46cd38,System Design,Microsoft,Design a URL shortening service like Bitly or TinyURL.
