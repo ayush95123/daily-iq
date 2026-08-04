@@ -148,3 +148,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-08-03,64f6b5e88fd80ad0,DSA,Uber,"Given an array of integers `nums` and an integer `k`, return the number of good "
 2026-08-03,48e70eb6f9dc5b95,System Design,Meta,"Design a system like Twitter, focusing on the feed generation and storage for mi"
 2026-08-03,9bc5de7d3d46cd38,System Design,Microsoft,Design a URL shortening service like Bitly or TinyURL.
+2026-08-04,1c80eb66c7bf8c30,DSA,SAP,Finding common ancestors (similar to a known LeetCode problem).
+2026-08-04,3850c2612515c112,DSA,Microsoft,Focused on Graphs and Dynamic Programming. I was asked to find the shortest path
+2026-08-04,411a0e3c4b87f6fa,System Design,SAP,Design an application similar to Zomato and explain how I would handle scalabili
+2026-08-04,845acc8d69dcce36,System Design,Microsoft,Low-level design of a core platform messaging/alerting system. Discussion focuse
+2026-08-04,6b88fb05ede4856c,System Design,Microsoft,"Designing a real-time collaborative application, with the conversation strictly "
