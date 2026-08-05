@@ -153,3 +153,7 @@ date_sent,question_hash,topic,company,question_snippet
 2026-08-04,411a0e3c4b87f6fa,System Design,SAP,Design an application similar to Zomato and explain how I would handle scalabili
 2026-08-04,845acc8d69dcce36,System Design,Microsoft,Low-level design of a core platform messaging/alerting system. Discussion focuse
 2026-08-04,6b88fb05ede4856c,System Design,Microsoft,"Designing a real-time collaborative application, with the conversation strictly "
+2026-08-05,581027b3a8c84919,System Design,Uber,Design a real-time surge pricing engine.
+2026-08-05,cfca4c012a20cfb4,System Design,Uber,"Design a system that ingests millions of GPS pings per second, calculates supply"
+2026-08-05,2d10f4914f45dbd4,System Design,Netflix,"Design something the team built two years ago, something they are building now, "
+2026-08-05,6cd22478c465a0fb,System Design,Netflix,"After you open the Netflix app and select a viewing profile, Netflix displays a "
