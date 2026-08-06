@@ -157,3 +157,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-08-05,cfca4c012a20cfb4,System Design,Uber,"Design a system that ingests millions of GPS pings per second, calculates supply"
 2026-08-05,2d10f4914f45dbd4,System Design,Netflix,"Design something the team built two years ago, something they are building now, "
 2026-08-05,6cd22478c465a0fb,System Design,Netflix,"After you open the Netflix app and select a viewing profile, Netflix displays a "
+2026-08-06,5f2c749ba721c2a9,DSA,Google,"Given a list of words, find all pairs of words that can be concatenated to form "
+2026-08-06,016f1534682dbaf3,DSA,Microsoft,"Given an array of integers, find the maximum sum of a non-empty subarray."
+2026-08-06,54d8846994297d74,DSA,Amazon,"Given a 2D grid, where each cell can be '0' or '1', find the number of islands. "
+2026-08-06,12db6fad83872e7b,System Design,Amazon,Design a system to store and retrieve user preferences for a large-scale e-comme
+2026-08-06,6c63832fc67b2c78,System Design,Uber,Implement a 'rate limiter' for an API that allows a maximum of N requests per M 
