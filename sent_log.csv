@@ -162,3 +162,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-08-06,54d8846994297d74,DSA,Amazon,"Given a 2D grid, where each cell can be '0' or '1', find the number of islands. "
 2026-08-06,12db6fad83872e7b,System Design,Amazon,Design a system to store and retrieve user preferences for a large-scale e-comme
 2026-08-06,6c63832fc67b2c78,System Design,Uber,Implement a 'rate limiter' for an API that allows a maximum of N requests per M 
+2026-08-08,ab9adf170888cf75,DSA,Netflix,"You are given an integer array `time` of size `n`, where `time[i]` represents th"
+2026-08-08,de5450854b04b604,DSA,Netflix,Report Each Node's Level and Balance Status: The coding round provided a binary 
+2026-08-08,44a2bd167da3aae0,DSA,Amazon,DSA question based on bucket sort.
+2026-08-08,8b124e2282b800da,System Design,Uber,Design a real-time surge pricing engine. It should ingest millions of GPS pings 
+2026-08-08,a97dbae724ab6ae3,System Design,Netflix,Design a frequency-capping service that limits how frequently a user can receive
