@@ -167,3 +167,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-08-08,44a2bd167da3aae0,DSA,Amazon,DSA question based on bucket sort.
 2026-08-08,8b124e2282b800da,System Design,Uber,Design a real-time surge pricing engine. It should ingest millions of GPS pings 
 2026-08-08,a97dbae724ab6ae3,System Design,Netflix,Design a frequency-capping service that limits how frequently a user can receive
+2026-08-09,021bedc3ab593a2b,DSA,Google,"Given a sorted array of integers and a target sum, find all unique pairs of elem"
+2026-08-09,50d81b0ba370d523,DSA,Amazon,"Given a list of currency conversion rates between pairs of currencies, compute t"
+2026-08-09,dd7b4a2fb75ae36e,DSA,Amazon,"Given preorder and inorder traversal of a tree, construct the binary tree."
+2026-08-09,e5ca98bf1ba0005a,System Design,Meta,Design an auto-slide system for a single-page feed similar to TikTok (but with o
+2026-08-09,8ba7333c40fd3246,System Design,Meta,Design how to use LLMs in the ranking stage of a recommendation system and to de
