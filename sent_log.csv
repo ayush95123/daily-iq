@@ -172,3 +172,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-08-09,dd7b4a2fb75ae36e,DSA,Amazon,"Given preorder and inorder traversal of a tree, construct the binary tree."
 2026-08-09,e5ca98bf1ba0005a,System Design,Meta,Design an auto-slide system for a single-page feed similar to TikTok (but with o
 2026-08-09,8ba7333c40fd3246,System Design,Meta,Design how to use LLMs in the ranking stage of a recommendation system and to de
+2026-08-10,cea502075d672184,DSA,Google,"Given a binary tree where each node contains only binary values, count the numbe"
+2026-08-10,739c57a6b227411e,DSA,Google,You are given routers with names and their locations in 2D space. For example: R
+2026-08-10,057f96dc9962130c,DSA,SAP,A problem related to finding common ancestors (similar to a known LeetCode probl
+2026-08-10,c7827915804ce70f,System Design,Microsoft,"Design a Multi-Level Parking Lot. Expectation was basic working implementation, "
+2026-08-10,a1bd0487e89ef7b8,System Design,Syfe,Design a music player with the given features: Enable/disable shuffle feature; N
