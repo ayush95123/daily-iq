@@ -177,3 +177,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-08-10,057f96dc9962130c,DSA,SAP,A problem related to finding common ancestors (similar to a known LeetCode probl
 2026-08-10,c7827915804ce70f,System Design,Microsoft,"Design a Multi-Level Parking Lot. Expectation was basic working implementation, "
 2026-08-10,a1bd0487e89ef7b8,System Design,Syfe,Design a music player with the given features: Enable/disable shuffle feature; N
+2026-08-11,d4472038f8a927a3,DSA,Amazon,"Given a 2D grid representing a maze, find the shortest path from a starting poin"
+2026-08-11,359d88a5441b018f,DSA,Microsoft,Implement a `LRU` cache. The `get` and `put` methods should operate in O(1) time
+2026-08-11,1bfe3bc5f9608a5c,DSA,Meta,"Given an array of integers, find all unique triplets in the array which gives th"
+2026-08-11,5e7f89491c3ab04d,System Design,Google,"Design a system to shorten URLs, similar to TinyURL. Consider aspects like uniqu"
+2026-08-11,efc8e90f5d429f0a,System Design,Uber,Design an elevator system for a building with multiple floors and multiple eleva
