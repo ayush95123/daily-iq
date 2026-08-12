@@ -182,3 +182,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-08-11,1bfe3bc5f9608a5c,DSA,Meta,"Given an array of integers, find all unique triplets in the array which gives th"
 2026-08-11,5e7f89491c3ab04d,System Design,Google,"Design a system to shorten URLs, similar to TinyURL. Consider aspects like uniqu"
 2026-08-11,efc8e90f5d429f0a,System Design,Uber,Design an elevator system for a building with multiple floors and multiple eleva
+2026-08-12,9d295a1935da1c6c,DSA,Google,"A coding screen problem that looked simple at first glance, but turned out to be"
+2026-08-12,f2214a7215a4be54,DSA,Netflix,"A very standard problem, the one that gets mentioned everywhere people discuss N"
+2026-08-12,23d9efb2b3ae43eb,DSA,Amazon,Search in a Sorted and Rotated Array (LeetCode problem)
+2026-08-12,0108dd35433b23e1,System Design,Google,"Design a Distributed Task Scheduler. It tests distributed scheduling, fault tole"
+2026-08-12,4c733bb8e382acbb,System Design,"Amazon, Meta",Design a Notification System. This is a common question at Amazon and Meta. It t
