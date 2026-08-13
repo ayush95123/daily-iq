@@ -187,3 +187,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-08-12,23d9efb2b3ae43eb,DSA,Amazon,Search in a Sorted and Rotated Array (LeetCode problem)
 2026-08-12,0108dd35433b23e1,System Design,Google,"Design a Distributed Task Scheduler. It tests distributed scheduling, fault tole"
 2026-08-12,4c733bb8e382acbb,System Design,"Amazon, Meta",Design a Notification System. This is a common question at Amazon and Meta. It t
+2026-08-13,e72ce2eaaaeb040f,DSA,Google,"Coding screen problem that looked simple at first glance, but turned out to be a"
+2026-08-13,d3cef03e54e65327,DSA,General (Top Tech),"Build heap, AVL, KMP, hash table, token bucket, and LRU modules."
+2026-08-13,cb758a21b10a63d0,System Design,Amazon,"Design a Notification System. This tests multi-channel delivery (push, SMS, emai"
+2026-08-13,4b09ae3b2c39302b,System Design,Meta,Design a Messaging System (WhatsApp/Messenger). This tests WebSocket connections
+2026-08-13,9b1c795777dd54fc,System Design,General (Top Tech),"Design a URL shortener, rate limiter, cache, and scale trade-offs."
