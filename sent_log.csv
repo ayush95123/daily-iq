@@ -192,3 +192,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-08-13,cb758a21b10a63d0,System Design,Amazon,"Design a Notification System. This tests multi-channel delivery (push, SMS, emai"
 2026-08-13,4b09ae3b2c39302b,System Design,Meta,Design a Messaging System (WhatsApp/Messenger). This tests WebSocket connections
 2026-08-13,9b1c795777dd54fc,System Design,General (Top Tech),"Design a URL shortener, rate limiter, cache, and scale trade-offs."
+2026-08-14,b55d7b7bd19f0b69,DSA,Amazon,Generate Palindromic Permutations Of String. You are given a string s. Return al
+2026-08-14,9e714c6954a04e57,DSA,Amazon,Longest Substring With At Most Two Distinct Characters. You are given a string s
+2026-08-14,f6c164b57fec84c0,DSA,Amazon,Trim Tree To Complete Binary Tree. The tree may not be a complete binary tree. Y
+2026-08-14,32bffe4b4fe175f3,System Design,Amazon,Design a job scheduling system that could schedule and execute jobs based on Pri
+2026-08-14,3543857c8816f838,DSA,Google,"Given a list of routers and their coordinates, determine whether a message from "
