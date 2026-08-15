@@ -197,3 +197,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-08-14,f6c164b57fec84c0,DSA,Amazon,Trim Tree To Complete Binary Tree. The tree may not be a complete binary tree. Y
 2026-08-14,32bffe4b4fe175f3,System Design,Amazon,Design a job scheduling system that could schedule and execute jobs based on Pri
 2026-08-14,3543857c8816f838,DSA,Google,"Given a list of routers and their coordinates, determine whether a message from "
+2026-08-15,18ba35544ba7dbb6,System Design,Meesho,Design a notification service with routes & priorities.
+2026-08-15,7f790ca81eae4470,System Design,Meesho,Design Book My Show.
+2026-08-15,e5cb9a8a88ba4423,System Design,Locus,Design a Zoom car service.
+2026-08-15,4ba68b2db95b19e7,System Design,Myntra,Design a QC validation system.
+2026-08-15,cdbd7e74656aebb2,System Design,Myntra,Design Google autocomplete.
