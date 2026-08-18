@@ -202,3 +202,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-08-15,e5cb9a8a88ba4423,System Design,Locus,Design a Zoom car service.
 2026-08-15,4ba68b2db95b19e7,System Design,Myntra,Design a QC validation system.
 2026-08-15,cdbd7e74656aebb2,System Design,Myntra,Design Google autocomplete.
+2026-08-18,f44f1ecd9db4f01a,System Design,Netflix,Design a video streaming service.
+2026-08-18,55c421fe1956abb6,System Design,Netflix,Design a recommendation system at Netflix's scale.
+2026-08-18,c7e9f3b95e58ad82,System Design,Netflix,Design a global CDN for video delivery.
+2026-08-18,2fb1d4f997235871,System Design,Netflix,Design a fault-tolerant microservices architecture.
+2026-08-18,78870bc910a1d00b,System Design,Netflix,Design a content catalog service with search.
