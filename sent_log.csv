@@ -207,3 +207,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-08-18,c7e9f3b95e58ad82,System Design,Netflix,Design a global CDN for video delivery.
 2026-08-18,2fb1d4f997235871,System Design,Netflix,Design a fault-tolerant microservices architecture.
 2026-08-18,78870bc910a1d00b,System Design,Netflix,Design a content catalog service with search.
+2026-08-19,3bf47fd017a35195,DSA,Google,Implement a function to find the 'k' most frequent elements in a given list of w
+2026-08-19,e0dce21b3da90203,DSA,Microsoft,Find the shortest path in a binary matrix from the top-left cell to the bottom-r
+2026-08-19,0b80259b956e548c,DSA,Meta,"Given a list of intervals, merge all overlapping intervals."
+2026-08-19,5d0a78fccf821431,System Design,Uber,Design a system for ride-sharing like Uber. Focus on matching drivers and riders
+2026-08-19,44328305f1e7c621,System Design,Amazon,Design a distributed key-value store like Amazon DynamoDB. Discuss consistency m
