@@ -212,3 +212,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-08-19,0b80259b956e548c,DSA,Meta,"Given a list of intervals, merge all overlapping intervals."
 2026-08-19,5d0a78fccf821431,System Design,Uber,Design a system for ride-sharing like Uber. Focus on matching drivers and riders
 2026-08-19,44328305f1e7c621,System Design,Amazon,Design a distributed key-value store like Amazon DynamoDB. Discuss consistency m
+2026-08-20,f28c32340c0f497c,DSA,Google,A hard graph problem. Solved using both a brute-force approach and an optimized 
+2026-08-20,6043a606174fd75e,DSA,Google,"A challenging tree/graph-style problem, solved using brute force and then optimi"
+2026-08-20,908fb57f4625ec2a,DSA,Google,"A tough matrix operation problem with several follow-up questions, which I manag"
+2026-08-20,f733287688069485,System Design,Microsoft,Low-level design of a core platform messaging/alerting system. Discussion focuse
+2026-08-20,b2a040d24f166434,System Design,Microsoft,"Design a real-time collaborative application, with the conversation steered stri"
