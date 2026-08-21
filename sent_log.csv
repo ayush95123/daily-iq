@@ -217,3 +217,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-08-20,908fb57f4625ec2a,DSA,Google,"A tough matrix operation problem with several follow-up questions, which I manag"
 2026-08-20,f733287688069485,System Design,Microsoft,Low-level design of a core platform messaging/alerting system. Discussion focuse
 2026-08-20,b2a040d24f166434,System Design,Microsoft,"Design a real-time collaborative application, with the conversation steered stri"
+2026-08-21,36087a47496c2b49,System Design,"Unnamed (likely FAANG+ focused, given context)",Design a distributed rate limiter.
+2026-08-21,42a5e56dede4555e,System Design,"Unnamed (likely FAANG+ focused, given context)",Design an API gateway.
+2026-08-21,d9d5ab593700ae26,System Design,"Unnamed (likely FAANG+ focused, given context)",Design a key-value store like DynamoDB.
+2026-08-21,a19b268e19a4f4e0,System Design,Amazon,Design Amazon S3.
+2026-08-21,c536ef4a8af907e7,System Design,Google,Design Gmail.
