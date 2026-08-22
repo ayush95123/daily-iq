@@ -222,3 +222,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-08-21,d9d5ab593700ae26,System Design,"Unnamed (likely FAANG+ focused, given context)",Design a key-value store like DynamoDB.
 2026-08-21,a19b268e19a4f4e0,System Design,Amazon,Design Amazon S3.
 2026-08-21,c536ef4a8af907e7,System Design,Google,Design Gmail.
+2026-08-22,eedffa2902b7a6fe,System Design,Meta,Design a messaging app.
+2026-08-22,4ff0f6db91fe9990,System Design,Meta,Design X.com (formerly Twitter).
+2026-08-22,84ccc85d76e7721e,System Design,Meta,Design Instagram.
+2026-08-22,13f427b13aa84a8f,System Design,Meta,Design a file-sharing system.
+2026-08-22,6ef76b2c5942b947,System Design,Meta,Design a music streaming platform.
