@@ -232,3 +232,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-08-23,d59223ee51a603d1,DSA,Adobe,One Dynamic Programming based DSA problem. A machine-coding question (the popula
 2026-08-23,b84962def8fd4b74,System Design,Amazon,Design a job scheduling system that could schedule and execute jobs based on: Pr
 2026-08-23,c1c61bab510dcf9c,System Design,Meta,"Design a product surface Meta cares about at scale — news feed, stories carousel"
+2026-08-24,3d941ecd2ffc03a5,DSA,Uber,Disjoint Set Union based question: https://leetcode.com/problems/making-a-large-
+2026-08-24,e345de9fb40566f3,DSA,Uber,Closest Palindrome: https://leetcode.com/problems/find-the-closest-palindrome/de
+2026-08-24,5acddc278e51778f,DSA,Wayfair,"Implement the calculation logic, insert/remove packages, and compute total costs"
+2026-08-24,8356631e5ef9a7a1,System Design,Uber,Design Hit Counter: https://leetcode.com/problems/design-hit-counter/description
+2026-08-24,17ad5026d9837f1d,System Design,Microsoft,Design a URL shortening service.
