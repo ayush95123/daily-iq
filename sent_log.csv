@@ -237,3 +237,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-08-24,5acddc278e51778f,DSA,Wayfair,"Implement the calculation logic, insert/remove packages, and compute total costs"
 2026-08-24,8356631e5ef9a7a1,System Design,Uber,Design Hit Counter: https://leetcode.com/problems/design-hit-counter/description
 2026-08-24,17ad5026d9837f1d,System Design,Microsoft,Design a URL shortening service.
+2026-08-25,624731f7f2ef8b09,DSA,Glassdoor,Implement a solution using a hash set to filter duplicate entries in a stream an
+2026-08-25,7fd02088e55e247e,System Design,N/A,Design a URL Shortener (like bit.ly).
+2026-08-25,6eab6bb0d2d5cc38,System Design,N/A,Design Dropbox
+2026-08-25,80d4105cb86a907d,System Design,N/A,Designing Twitter
+2026-08-25,3e7dbeb0950e40a2,System Design,N/A,Designing Netflix
