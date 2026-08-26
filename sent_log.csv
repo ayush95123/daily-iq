@@ -242,3 +242,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-08-25,6eab6bb0d2d5cc38,System Design,N/A,Design Dropbox
 2026-08-25,80d4105cb86a907d,System Design,N/A,Designing Twitter
 2026-08-25,3e7dbeb0950e40a2,System Design,N/A,Designing Netflix
+2026-08-26,41446a19889d37b4,DSA,Amazon,"Given a string 's', how would you identify its longest palindromic substring?"
+2026-08-26,b70dc637100b430c,DSA,Amazon,How do you convert a String to a byte array in Java?
+2026-08-26,08f31f7eabd9f93d,DSA,Amazon,The Next Greater Element problem using a Monotonic Stack.
+2026-08-26,028719d70bb444fa,System Design,Meta,How would you design a URL shortening service like Bitly?
+2026-08-26,82f139eccea98c4e,System Design,Meta,Design a cache system for a web application.
