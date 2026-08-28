@@ -247,3 +247,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-08-26,08f31f7eabd9f93d,DSA,Amazon,The Next Greater Element problem using a Monotonic Stack.
 2026-08-26,028719d70bb444fa,System Design,Meta,How would you design a URL shortening service like Bitly?
 2026-08-26,82f139eccea98c4e,System Design,Meta,Design a cache system for a web application.
+2026-08-28,138581b8dc67079f,DSA,Amazon,"Given a circular (rotated) array, find the maximum subarray sum."
+2026-08-28,55db554a4f898e48,DSA,Amazon,Search in a Sorted and Rotated Array
+2026-08-28,893f5442ad77fac3,DSA,Glassdoor,"Write an optimal algorithm using a priority queue or recursion to filter, aggreg"
+2026-08-28,f8f8a894b10d77ad,System Design,Microsoft,"Design a real-time collaborative application, with a focus on state synchronizat"
+2026-08-28,78dbc47dad10a7f4,System Design,Microsoft,Design a core platform messaging/alerting system. This includes structuring the 
