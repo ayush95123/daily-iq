@@ -252,3 +252,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-08-28,893f5442ad77fac3,DSA,Glassdoor,"Write an optimal algorithm using a priority queue or recursion to filter, aggreg"
 2026-08-28,f8f8a894b10d77ad,System Design,Microsoft,"Design a real-time collaborative application, with a focus on state synchronizat"
 2026-08-28,78dbc47dad10a7f4,System Design,Microsoft,Design a core platform messaging/alerting system. This includes structuring the 
+2026-08-30,80cba21411fa1f9d,DSA,Amazon,Retrieve First Active and Last Inactive Dates per User.
+2026-08-30,b8dcc1b933c2747d,DSA,Uber,"A graph problem, a variation of Number of Islands II. The trick was to dynamical"
+2026-08-30,ffb2dd2729c341f2,DSA,Amazon,A medium-hard graph problem based on Dijkstra's algorithm.
+2026-08-30,1976204deede001c,System Design,Amazon,Design streaming error-log counting with moving average.
+2026-08-30,a9985c6ca17f7ebf,System Design,Apple,"Given a view hierarchy and a coordinate point, return all views containing that "
