@@ -257,3 +257,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-08-30,ffb2dd2729c341f2,DSA,Amazon,A medium-hard graph problem based on Dijkstra's algorithm.
 2026-08-30,1976204deede001c,System Design,Amazon,Design streaming error-log counting with moving average.
 2026-08-30,a9985c6ca17f7ebf,System Design,Apple,"Given a view hierarchy and a coordinate point, return all views containing that "
+2026-08-31,f814261d2747756b,DSA,Google,"Given an array representing the heights of people standing in a line, determine "
+2026-08-31,7b92847f7e27dfbc,DSA,TikTok,How do you find the two numbers in an array that sum to a target?
+2026-08-31,c0060482bef1e850,DSA,,What is the sliding window technique?
+2026-08-31,66346d32f9d30060,System Design,Grab,Design a real-time chat system.
+2026-08-31,6dced4fdfb53750c,System Design,"Google, Meta, Amazon, Anthropic, OpenAI",Design a batch inference API for a GPU cluster.
