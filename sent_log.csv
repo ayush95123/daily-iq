@@ -262,3 +262,6 @@ date_sent,question_hash,topic,company,question_snippet
 2026-08-31,c0060482bef1e850,DSA,,What is the sliding window technique?
 2026-08-31,66346d32f9d30060,System Design,Grab,Design a real-time chat system.
 2026-08-31,6dced4fdfb53750c,System Design,"Google, Meta, Amazon, Anthropic, OpenAI",Design a batch inference API for a GPU cluster.
+2026-09-01,b04466cf7e8b1f7e,DSA,EPAM,Design a simple voting system for N candidates with unique IDs ranging from 0 to
+2026-09-01,186c4fd01861ca43,System Design,EPAM,"Design a train ticket booking app, focusing on high-level design, Back-of-the-En"
+2026-09-01,c490ea6644401b06,System Design,GeeksforGeeks,Design a URL Shortener (like bit.ly). Take a long URL as input and generate a sh
