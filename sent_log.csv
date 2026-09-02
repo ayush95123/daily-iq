@@ -265,3 +265,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-09-01,b04466cf7e8b1f7e,DSA,EPAM,Design a simple voting system for N candidates with unique IDs ranging from 0 to
 2026-09-01,186c4fd01861ca43,System Design,EPAM,"Design a train ticket booking app, focusing on high-level design, Back-of-the-En"
 2026-09-01,c490ea6644401b06,System Design,GeeksforGeeks,Design a URL Shortener (like bit.ly). Take a long URL as input and generate a sh
+2026-09-02,c965bc6aa641d8bf,DSA,Google,"A challenging tree/graph-style problem, again solved using brute force and then "
+2026-09-02,771aa1ee64022a12,DSA,Amazon,Count the number of subarrays whose sum is K. There were around 2–3 follow-ups.
+2026-09-02,b40c981cd26704e4,DSA,Amazon,Longest Strictly Increasing Subsequence with Maximum Adjacent Difference Constra
+2026-09-02,fa3a2d4913ff0251,System Design,Amazon,Design a system that handles audio buffers across different stages at X frames p
+2026-09-02,e90505cbd31ce6e7,System Design,Amazon,Design a social media feed system (similar to Facebook) that supports millions o
