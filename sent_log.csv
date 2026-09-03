@@ -270,3 +270,7 @@ date_sent,question_hash,topic,company,question_snippet
 2026-09-02,b40c981cd26704e4,DSA,Amazon,Longest Strictly Increasing Subsequence with Maximum Adjacent Difference Constra
 2026-09-02,fa3a2d4913ff0251,System Design,Amazon,Design a system that handles audio buffers across different stages at X frames p
 2026-09-02,e90505cbd31ce6e7,System Design,Amazon,Design a social media feed system (similar to Facebook) that supports millions o
+2026-09-03,fa1e588d90beb799,DSA,Twilio,Implement an asynchronous Task Scheduler.
+2026-09-03,a51babb7f4fc231d,System Design,Amazon,The design problem involved managing audio buffers across multiple processing st
+2026-09-03,0469fd86c4759fd0,System Design,Amazon,Design a file-system cache. (Discussed LRU eviction policy using a doubly linked
+2026-09-03,ab21e5d8f220418d,System Design,Twilio,Discussion around designing systems related to SMS APIs / communication infrastr
