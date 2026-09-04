@@ -274,3 +274,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-09-03,a51babb7f4fc231d,System Design,Amazon,The design problem involved managing audio buffers across multiple processing st
 2026-09-03,0469fd86c4759fd0,System Design,Amazon,Design a file-system cache. (Discussed LRU eviction policy using a doubly linked
 2026-09-03,ab21e5d8f220418d,System Design,Twilio,Discussion around designing systems related to SMS APIs / communication infrastr
+2026-09-04,278f8cc0f3f0082f,DSA,Apple,"Design a data structure supporting insert, delete, and getRandom all in average "
+2026-09-04,3b7b8b333d134d08,DSA,Amazon,Count the number of subarrays whose sum equals K.
+2026-09-04,2938efb74d951dc9,DSA,Amazon,"Given a stream of temperature readings, generate an alert whenever five consecut"
+2026-09-04,d2bbe0c8e0a36000,System Design,Apple,"Design a replica management system, specifically a function that distributes rep"
+2026-09-04,459289f2ad112593,System Design,Amazon,Design a system for managing audio buffers across multiple processing stages ope
