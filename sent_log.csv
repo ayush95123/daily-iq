@@ -279,3 +279,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-09-04,2938efb74d951dc9,DSA,Amazon,"Given a stream of temperature readings, generate an alert whenever five consecut"
 2026-09-04,d2bbe0c8e0a36000,System Design,Apple,"Design a replica management system, specifically a function that distributes rep"
 2026-09-04,459289f2ad112593,System Design,Amazon,Design a system for managing audio buffers across multiple processing stages ope
+2026-09-05,42d5affbe5998d88,DSA,Amazon,There are n advertising slots and m companies. Each company requests a certain n
+2026-09-05,450cd23dc4747d8b,DSA,Amazon,Search Minimum And Rotation Count In Rotated Sorted Array. You are given a rotat
+2026-09-05,446fae1516c4bba2,DSA,Amazon,Employee Schedule Common Free Time. You are given the work schedule of multiple 
+2026-09-05,8c5d256aa54a5c5b,System Design,Amazon,"Design a cache for a file-storage system, identifying the eviction policy as the"
+2026-09-05,1a156e2b04c919c4,System Design,Amazon,Design a playlist-mixing system that receives songs from a DJ service and a reco
