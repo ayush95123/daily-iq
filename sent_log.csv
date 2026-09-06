@@ -284,3 +284,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-09-05,446fae1516c4bba2,DSA,Amazon,Employee Schedule Common Free Time. You are given the work schedule of multiple 
 2026-09-05,8c5d256aa54a5c5b,System Design,Amazon,"Design a cache for a file-storage system, identifying the eviction policy as the"
 2026-09-05,1a156e2b04c919c4,System Design,Amazon,Design a playlist-mixing system that receives songs from a DJ service and a reco
+2026-09-06,3275cf71facd45a6,DSA,Microsoft,An optimization problem requiring a greedy approach. It initially seemed straigh
+2026-09-06,34774cc8c16af2c0,DSA,Amazon,Designing a file-system storage cache. The important part was the eviction polic
+2026-09-06,62dbbc864cc51e22,System Design,Microsoft,"Design a real-time collaborative application, but the interviewer quickly steere"
+2026-09-06,acc68f56c43a928e,System Design,Amazon,Designing a system that handles audio buffers across different stages at X frame
+2026-09-06,c878e53c48e37a53,System Design,Amazon,Design a social media feed system (similar to Facebook) that supports millions o
