@@ -289,3 +289,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-09-06,62dbbc864cc51e22,System Design,Microsoft,"Design a real-time collaborative application, but the interviewer quickly steere"
 2026-09-06,acc68f56c43a928e,System Design,Amazon,Designing a system that handles audio buffers across different stages at X frame
 2026-09-06,c878e53c48e37a53,System Design,Amazon,Design a social media feed system (similar to Facebook) that supports millions o
+2026-09-08,7183905c92985f96,DSA,Google,Count people visible to the last person. Given an array representing the heights
+2026-09-08,035f8861a9eb685c,DSA,Google,"Given a tree representation of a html parsed output, wherein every block is a no"
+2026-09-08,23ce037a67ad83fe,System Design,Meesho,Notification service with routes & priorities
+2026-09-08,a7d7be762219c48b,System Design,Meesho,Book My Show system design
+2026-09-08,dd15a6053aef4781,System Design,Locus,Zoom car service system design
