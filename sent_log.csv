@@ -294,3 +294,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-09-08,23ce037a67ad83fe,System Design,Meesho,Notification service with routes & priorities
 2026-09-08,a7d7be762219c48b,System Design,Meesho,Book My Show system design
 2026-09-08,dd15a6053aef4781,System Design,Locus,Zoom car service system design
+2026-09-10,6f6f99c9c9f3c9f2,DSA,N/A,How to Find Duplicate Strings in a List?
+2026-09-10,6e7933db829445d1,DSA,N/A,Check if a String is a Palindrome.
+2026-09-10,fa9fa3de2f7c98ea,DSA,N/A,Combination Sum II (Recursion / Backtracking)
+2026-09-10,acff138b0a6964f2,System Design,Meta,How would you design a URL shortening service like Bitly? Start by clarifying th
+2026-09-10,574900544be883ee,System Design,Meta,Design a cache system for a web application. Explain the concept of caching and 
