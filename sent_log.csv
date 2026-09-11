@@ -299,3 +299,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-09-10,fa9fa3de2f7c98ea,DSA,N/A,Combination Sum II (Recursion / Backtracking)
 2026-09-10,acff138b0a6964f2,System Design,Meta,How would you design a URL shortening service like Bitly? Start by clarifying th
 2026-09-10,574900544be883ee,System Design,Meta,Design a cache system for a web application. Explain the concept of caching and 
+2026-09-11,44136128ba91a021,DSA,Eternal (Blinkit/Zomato),"Given a matrix, find the number of islands. Follow up: optimize if given a colle"
+2026-09-11,999cc483667d83b7,DSA,Duolingo,Implement a DataStream class with `add(int value)` and `guess()` methods.
+2026-09-11,85ce28da57a0c330,DSA,Rippling,"Implement methods like RecordDelivery(), PayUpto(), AddDelivery() for a Food Del"
+2026-09-11,e44f85af69adc679,System Design,Uber,Design a Circuit Breaker. The question slightly threw me off because the require
+2026-09-11,cba7ee8b509d70f2,System Design,Uber,Design a price tracking system for stock tickers. The requirement was to allow u
