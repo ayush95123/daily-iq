@@ -304,3 +304,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-09-11,85ce28da57a0c330,DSA,Rippling,"Implement methods like RecordDelivery(), PayUpto(), AddDelivery() for a Food Del"
 2026-09-11,e44f85af69adc679,System Design,Uber,Design a Circuit Breaker. The question slightly threw me off because the require
 2026-09-11,cba7ee8b509d70f2,System Design,Uber,Design a price tracking system for stock tickers. The requirement was to allow u
+2026-09-12,17d0eaf7242d069f,DSA,Google,"Given an array representing the heights of people standing in a line, determine "
+2026-09-12,af17b781b70d8305,DSA,Amazon,"Given ranges L to R for trips, and a maximum capacity K, return true if the jour"
+2026-09-12,c215cf0c4e335afe,DSA,Amazon,Longest Palindromic Subsequence.
+2026-09-12,a2524fb6b4a48e29,System Design,Amazon,Design a cache for a file-storage system. I identified the eviction policy as th
+2026-09-12,8e85254bd0b9a153,System Design,Uber,Design a real-time surge pricing engine. They wanted me to design a system that 
