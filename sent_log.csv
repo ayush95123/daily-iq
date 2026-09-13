@@ -309,3 +309,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-09-12,c215cf0c4e335afe,DSA,Amazon,Longest Palindromic Subsequence.
 2026-09-12,a2524fb6b4a48e29,System Design,Amazon,Design a cache for a file-storage system. I identified the eviction policy as th
 2026-09-12,8e85254bd0b9a153,System Design,Uber,Design a real-time surge pricing engine. They wanted me to design a system that 
+2026-09-13,5528528695258b8a,DSA,Veeam,"Given a list of items, process each item, and then summarize the results. Implem"
+2026-09-13,fc535b08423577ab,System Design,Meesho,Implement a notification service with routes and priorities.
+2026-09-13,bf42bfd83819dc5b,System Design,Meesho,Design BookMyShow (a ticket booking service).
+2026-09-13,3939fb2de7c6f21e,System Design,Locus,Design Zoom car service.
+2026-09-13,bfddb2428ebf25ee,System Design,Olyv,Implement an email OTP/promo service.
