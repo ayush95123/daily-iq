@@ -314,3 +314,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-09-13,bf42bfd83819dc5b,System Design,Meesho,Design BookMyShow (a ticket booking service).
 2026-09-13,3939fb2de7c6f21e,System Design,Locus,Design Zoom car service.
 2026-09-13,bfddb2428ebf25ee,System Design,Olyv,Implement an email OTP/promo service.
+2026-09-15,864925313878560f,DSA,Uber,A variation of the Optimal Binary Search Tree problem.
+2026-09-15,261442962bc9a683,DSA,Uber,Variation of the Optimal Strategy for a Game (Minimax principle). Two players wi
+2026-09-15,1d557cecabb11c7d,DSA,Uber,"Implement core Linux File System commands (e.g., mkdir, cd, ls, pwd)."
+2026-09-15,a989e467c4c32830,System Design,Google,Design YouTube or Design Google Maps.
+2026-09-15,6960bc181c61fa1e,System Design,Uber,Design Splitwise. Focus on the Graph Edge Optimization problem (minimizing the n
