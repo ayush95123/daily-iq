@@ -324,3 +324,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-09-16,9e1024bd6a292bc8,DSA,Amazon,Amazon fulfillment centers ship items using standard box sizes. Each box type ha
 2026-09-16,e330cd06c9c558ea,System Design,Amazon,Design a playlist-mixing system. The system receives songs from two sources: a D
 2026-09-16,2cd1e82c10da65da,System Design,Meta,Design a messaging system.
+2026-09-17,e6fb96d158068af4,DSA,Apple,Solve a Python string-manipulation problem involving phone numbers. Write tests 
+2026-09-17,0e2edd3895dc6de7,DSA,Apple,"Design a class that aggregates data and results, then supports sorting and filte"
+2026-09-17,c442645bd2be296f,DSA,Google,The technical interviews were all DSA and had a story built around the underlyin
+2026-09-17,e89bd0e9754825dd,System Design,Amazon,Design a system for managing audio buffers across different processing stages at
+2026-09-17,1fdda23148f3037e,System Design,Microsoft,Design a Timer-management System.
