@@ -329,3 +329,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-09-17,c442645bd2be296f,DSA,Google,The technical interviews were all DSA and had a story built around the underlyin
 2026-09-17,e89bd0e9754825dd,System Design,Amazon,Design a system for managing audio buffers across different processing stages at
 2026-09-17,1fdda23148f3037e,System Design,Microsoft,Design a Timer-management System.
+2026-09-18,ffb7235f0c9f58d3,DSA,Olyv,"Variation of 0,1,2 sort."
+2026-09-18,dcf3ebcb5dc3355b,DSA,Veeam,File-based typical DSA question.
+2026-09-18,1c0730ee91ac7e17,System Design,Google,Design a distributed file system.
+2026-09-18,4bad0a91a2b767d2,System Design,Google,Design a proximity service.
+2026-09-18,ea88f63004c278d8,System Design,Olyv,Design an email OTP/promo service.
