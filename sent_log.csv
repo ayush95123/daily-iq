@@ -334,3 +334,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-09-18,1c0730ee91ac7e17,System Design,Google,Design a distributed file system.
 2026-09-18,4bad0a91a2b767d2,System Design,Google,Design a proximity service.
 2026-09-18,ea88f63004c278d8,System Design,Olyv,Design an email OTP/promo service.
+2026-09-19,d5bf7788ff14efe7,DSA,Apple,"Implement an LRU cache with get and put. What changes if capacity is one, and ho"
+2026-09-19,13b1d861f7c8a193,DSA,Apple,"Given meeting intervals, decide whether a person can attend all meetings, then r"
+2026-09-19,12f19994db4907c7,DSA,Amazon,Search an Element in a Sorted Rotated Array. Given a sorted array that has been 
+2026-09-19,0e64612aa5023449,System Design,Uber,"Design a system that shows driver density on a map, often across time ranges. Im"
+2026-09-19,ed66244fec2141b6,System Design,Uber,Design a task queue that supports controlled concurrency. The queue should: Acce
