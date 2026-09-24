@@ -354,3 +354,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-09-22,8983e794308f9d21,DSA,Stripe,Multi-part problem-solving coding question.
 2026-09-22,4402c44b1674f4e2,System Design,JPMC,"Design a URL shortener for a marketing firm, focusing on approach, system design"
 2026-09-22,72f0ef35c9294d58,System Design,Reddit,Low-Level Design type of interview questions.
+2026-09-24,eaf4d807b7ff70e4,System Design,"Google, Bitly",Design a URL shortener (like Bitly).
+2026-09-24,e052f47fed2e2685,System Design,"Meta, Apple, Discord",Design a WhatsApp / Chat System.
+2026-09-24,6839037e0d70fbda,System Design,"Meta, Twitter, LinkedIn",Design a News Feed / Timeline.
+2026-09-24,40ec812daa285ea6,System Design,"Google, Netflix, TikTok",Design YouTube / Video Streaming.
+2026-09-24,26969ac8100c3ceb,System Design,"Google, Dropbox, Microsoft",Design Google Drive / Dropbox.
