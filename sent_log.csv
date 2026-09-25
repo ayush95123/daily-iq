@@ -359,3 +359,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-09-24,6839037e0d70fbda,System Design,"Meta, Twitter, LinkedIn",Design a News Feed / Timeline.
 2026-09-24,40ec812daa285ea6,System Design,"Google, Netflix, TikTok",Design YouTube / Video Streaming.
 2026-09-24,26969ac8100c3ceb,System Design,"Google, Dropbox, Microsoft",Design Google Drive / Dropbox.
+2026-09-25,b85a4ed789fc5ff1,DSA,Google,Nested List Weighted Sum
+2026-09-25,4b95a373ec947b68,DSA,Google,House Robber
+2026-09-25,fe7c0d10441a10cf,DSA,Google,Serialize and Deserialize Binary Tree
+2026-09-25,b6ccc88a02630882,System Design,Google,"Design a system to compute connection levels fast, going beyond a high-level gra"
+2026-09-25,3d0433fdc183a5eb,System Design,Meta,Design Twitter
