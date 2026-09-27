@@ -364,3 +364,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-09-25,fe7c0d10441a10cf,DSA,Google,Serialize and Deserialize Binary Tree
 2026-09-25,b6ccc88a02630882,System Design,Google,"Design a system to compute connection levels fast, going beyond a high-level gra"
 2026-09-25,3d0433fdc183a5eb,System Design,Meta,Design Twitter
+2026-09-27,a4ed8d1ceacd6b98,DSA,Amazon,"Given a 2D grid representing a maze, find the shortest path from a start point t"
+2026-09-27,85912b8ed07db025,DSA,Microsoft,Implement a 'rate limiter' that restricts a user to N requests per second.
+2026-09-27,99ea7e9cb855d5a1,DSA,Amazon,Implement a circular queue.
+2026-09-27,1f0115f39b7691bc,System Design,Google,Design a system to store and retrieve user preferences for a large number of use
+2026-09-27,9be6b1141c9ed30c,System Design,Uber,Design a URL shortening service like TinyURL.
