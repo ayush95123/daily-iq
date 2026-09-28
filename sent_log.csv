@@ -369,3 +369,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-09-27,99ea7e9cb855d5a1,DSA,Amazon,Implement a circular queue.
 2026-09-27,1f0115f39b7691bc,System Design,Google,Design a system to store and retrieve user preferences for a large number of use
 2026-09-27,9be6b1141c9ed30c,System Design,Uber,Design a URL shortening service like TinyURL.
+2026-09-28,672d4b32a8b6a6d8,DSA,Google,"Given an array representing the heights of people standing in a line, determine "
+2026-09-28,c591d9b651457cd6,DSA,Amazon,"Given a circular (rotated) array, find the maximum subarray sum. (Variation of K"
+2026-09-28,46273660268f4d2c,DSA,Amazon,"Given an array and an integer k, find the maximum subarray sum from index i to j"
+2026-09-28,e81a4b4833915514,System Design,Amazon,Design a cache for a file-storage system. Identify the eviction policy as the ce
+2026-09-28,e958bbe7ef9903e0,System Design,Amazon,Design a system to schedule processes.
