@@ -379,3 +379,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-09-29,19653c06d867cf10,DSA,Runna,1-2 exercises from LeetCode. (Specifically for a Data Engineering Summer Interns
 2026-09-29,cc2183fae9a747d9,System Design,Microsoft,"Design a real-time collaborative application, with a focus on state synchronizat"
 2026-09-29,57fce4bafecd06b2,System Design,Microsoft,"Design a distributed, highly available unique identifier generation system capab"
+2026-09-30,d60bd85607317d0a,DSA,Microsoft,Implement an in-process task execution component for per-key ordered execution.
+2026-09-30,eb53aa719488da24,DSA,Microsoft,"Given an integer array, scan from left to right and return the first value that "
+2026-09-30,9ce3395c1db87d6f,DSA,Microsoft,"Design and implement an LRU Cache, along with maintaining dependencies using Top"
+2026-09-30,ac9a1c9cfea597f9,System Design,Microsoft,Design a Windows notification system where different applications can generate n
+2026-09-30,acb87ac3714d2e36,System Design,Microsoft,Design a proximity-search system for a food-delivery application. Given a user's
