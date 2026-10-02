@@ -385,3 +385,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-09-30,ac9a1c9cfea597f9,System Design,Microsoft,Design a Windows notification system where different applications can generate n
 2026-09-30,acb87ac3714d2e36,System Design,Microsoft,Design a proximity-search system for a food-delivery application. Given a user's
 2026-10-01,f4f0cbba1c393d8d,System Design,N/A,Implement an entire AI development lifecycle and demonstrate quantifiably how yo
+2026-10-02,8cc283eaa22c548c,DSA,LinkedIn,A tree problem where nodes needed to be returned in the order they would be remo
+2026-10-02,878d9399a444ad37,DSA,Infosys,Given an array g (children's greed factors) and array s (cookie sizes). A child 
+2026-10-02,ce3b5d67e2e27282,DSA,ServiceNow,"Implement an LRU Cache from scratch, including the required Node class and suppo"
+2026-10-02,7ca8c6c72ae9cfd1,System Design,Ebay,Design a Dropbox like system.
+2026-10-02,bfa7dc580de9ba2f,System Design,Multiple (unspecified),How would you replicate data across multiple data centers?
