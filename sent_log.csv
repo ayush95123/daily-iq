@@ -390,3 +390,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-10-02,ce3b5d67e2e27282,DSA,ServiceNow,"Implement an LRU Cache from scratch, including the required Node class and suppo"
 2026-10-02,7ca8c6c72ae9cfd1,System Design,Ebay,Design a Dropbox like system.
 2026-10-02,bfa7dc580de9ba2f,System Design,Multiple (unspecified),How would you replicate data across multiple data centers?
+2026-10-08,1243c264f65659ff,System Design,Amazon,Design a publisher-subscriber system where a publisher sends events of a particu
+2026-10-08,31fb517b356b5cae,System Design,Amazon,"Design an Inventory Management System for Amazon, with a focus on concurrency-re"
+2026-10-08,103330cef7ff3126,System Design,Amazon,"Design a Rate Limiter, discussing multiple approaches/algorithms like Fixed Wind"
+2026-10-08,469efc38f238fd6f,System Design,Amazon,Design a system for syncing configurations across different devices.
+2026-10-08,f089b2abbd2e87eb,System Design,Amazon,Find the nearest drop store from the customer's location for a package return sy
