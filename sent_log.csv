@@ -395,3 +395,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-10-08,103330cef7ff3126,System Design,Amazon,"Design a Rate Limiter, discussing multiple approaches/algorithms like Fixed Wind"
 2026-10-08,469efc38f238fd6f,System Design,Amazon,Design a system for syncing configurations across different devices.
 2026-10-08,f089b2abbd2e87eb,System Design,Amazon,Find the nearest drop store from the customer's location for a package return sy
+2026-10-09,6e46a4dbdcf55e37,DSA,EPAM,Create a simple voting system for N candidates with unique IDs ranging from 0 to
+2026-10-09,429b2d9883ce84d3,DSA,"[Unspecified, senior engineer role]","Given an array of integers and a target, return the indices of the two numbers t"
+2026-10-09,2681a525c0280877,DSA,Google,"Given n test cases, each passing individually. A set of test cases may pass or f"
+2026-10-09,1d6aa8cf8385c9f8,System Design,Microsoft,"Design a real-time collaborative application, with a focus strictly toward state"
+2026-10-09,c07bf1d20d5ec14a,System Design,Microsoft,"Build a distributed, highly available unique identifier generation system capabl"
