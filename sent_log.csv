@@ -400,3 +400,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-10-09,2681a525c0280877,DSA,Google,"Given n test cases, each passing individually. A set of test cases may pass or f"
 2026-10-09,1d6aa8cf8385c9f8,System Design,Microsoft,"Design a real-time collaborative application, with a focus strictly toward state"
 2026-10-09,c07bf1d20d5ec14a,System Design,Microsoft,"Build a distributed, highly available unique identifier generation system capabl"
+2026-10-10,94c67ed68a303c3c,DSA,Google,"Array-ish problem (hard to categorize, really - I'd never solved anything like i"
+2026-10-10,3db2a9fc28415233,DSA,Google,Graph problems for both coding rounds.
+2026-10-10,fa21a3338e33eef6,System Design,Netflix,Design Netflix
+2026-10-10,58c8df948a63c4f6,System Design,Uber,Design the Uber App
+2026-10-10,6bacf6b7a41dc24c,System Design,N/A,Design BookMyShow
