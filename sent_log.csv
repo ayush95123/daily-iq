@@ -405,3 +405,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-10-10,fa21a3338e33eef6,System Design,Netflix,Design Netflix
 2026-10-10,58c8df948a63c4f6,System Design,Uber,Design the Uber App
 2026-10-10,6bacf6b7a41dc24c,System Design,N/A,Design BookMyShow
+2026-10-11,0c0eefd6d972fac8,DSA,Google,Given a robot cleaner in a room modeled as a grid. Each cell in the grid can be 
+2026-10-11,fd021b5cb4d4b91f,DSA,Google,A variation of Maximum Good Subarray Sum in which we have to return any pair of 
+2026-10-11,c2d3e32ab0ab96ac,DSA,Google,Given a string consisting of only 2 letters 'a' and 'b' such that the number of 
+2026-10-11,6cadab4a3dee1cec,System Design,Amazon,How would you design TinyURL / a URL shortener?
+2026-10-11,18e823a5f7c6314d,System Design,Apple,Design a social media app (like X/Twitter).
