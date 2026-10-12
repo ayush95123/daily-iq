@@ -410,3 +410,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-10-11,c2d3e32ab0ab96ac,DSA,Google,Given a string consisting of only 2 letters 'a' and 'b' such that the number of 
 2026-10-11,6cadab4a3dee1cec,System Design,Amazon,How would you design TinyURL / a URL shortener?
 2026-10-11,18e823a5f7c6314d,System Design,Apple,Design a social media app (like X/Twitter).
+2026-10-12,8423622a3a4db07a,DSA,Google,Count people visible to the last person given an array representing heights. Per
+2026-10-12,7e3831f845d9e68b,DSA,Amazon,Group strings that are anagrams of each other without using a sorted-string sign
+2026-10-12,f35d307dcddea5df,DSA,Amazon,Return the k most frequent elements from a non-empty integer array.
+2026-10-12,b35d94e9e2ba8b72,System Design,Google,How would you handle 100 billion URLs in a URL shortener system?
+2026-10-12,78390dcd958107ff,System Design,"Google, Meta, Amazon",Design a system that handles 1 billion users.
