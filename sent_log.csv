@@ -415,3 +415,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-10-12,f35d307dcddea5df,DSA,Amazon,Return the k most frequent elements from a non-empty integer array.
 2026-10-12,b35d94e9e2ba8b72,System Design,Google,How would you handle 100 billion URLs in a URL shortener system?
 2026-10-12,78390dcd958107ff,System Design,"Google, Meta, Amazon",Design a system that handles 1 billion users.
+2026-10-13,e8c4cb7ee5395ac1,DSA,Infosys,Explain the logic of the second coding problem you solved in Round 1. What is th
+2026-10-13,9a7de786e6b20ce9,System Design,Amazon,Design a cache for a file-storage system. I identified the eviction policy as th
+2026-10-13,3a0fccc853ffbc3d,System Design,Amazon,Manage audio buffers across different processing stages at X frames per second. 
+2026-10-13,24dd565d918cee87,System Design,Unnamed (top tech company),Design a parking system
+2026-10-13,99fa2ba494834a13,System Design,Unnamed (top tech company),Design a notification service
