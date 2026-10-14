@@ -420,3 +420,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-10-13,3a0fccc853ffbc3d,System Design,Amazon,Manage audio buffers across different processing stages at X frames per second. 
 2026-10-13,24dd565d918cee87,System Design,Unnamed (top tech company),Design a parking system
 2026-10-13,99fa2ba494834a13,System Design,Unnamed (top tech company),Design a notification service
+2026-10-14,85b94981b130ea9c,DSA,Amazon,Count the number of subarrays whose sum is K.
+2026-10-14,fea12548e4569eba,DSA,Uber,"Given an n x n matrix representing an image, rotate it 90 degrees clockwise in p"
+2026-10-14,7789982e78bdb961,DSA,Uber,"Given an array and a window size k, return the maximum value in every sliding wi"
+2026-10-14,eff8ef97df6ed29a,System Design,Uber,Design Uber's rider-driver matching system. The discussion focused on low-latenc
+2026-10-14,ec09a9f9f30adbc5,System Design,Uber,Rate limiter design / implementation question. Discuss possible algorithms such 
