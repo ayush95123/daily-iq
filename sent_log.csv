@@ -425,3 +425,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-10-14,7789982e78bdb961,DSA,Uber,"Given an array and a window size k, return the maximum value in every sliding wi"
 2026-10-14,eff8ef97df6ed29a,System Design,Uber,Design Uber's rider-driver matching system. The discussion focused on low-latenc
 2026-10-14,ec09a9f9f30adbc5,System Design,Uber,Rate limiter design / implementation question. Discuss possible algorithms such 
+2026-10-15,ca9cd08d747c4cf8,DSA,Google,You are given a stream of integers. Design a data structure that supports adding
+2026-10-15,e3792081f758bc5e,DSA,Apple,"Given an array of strings, group anagrams together. The order of output doesn't "
+2026-10-15,d49e88361ec34d91,DSA,Amazon,Implement a spell checker. Discuss data structures for dictionary storage and ef
+2026-10-15,83ea0b5c56c389e6,System Design,Amazon,"Given a large dataset of user interactions (clicks, views, purchases), design a "
+2026-10-15,f8aa937b6062c491,System Design,Microsoft,Design a distributed rate limiter. Consider different types of rate limits (user
