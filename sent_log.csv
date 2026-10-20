@@ -435,3 +435,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-10-18,a5454feb288aa5b1,DSA,Amazon,Merge K Sorted Lists.
 2026-10-18,f87ae0cba43201a0,System Design,Amazon,Design and implement Meeting Room Scheduler.
 2026-10-18,f0b403120fe98b0e,System Design,Amazon,"If the notification is urgent, it should be sent to all channels otherwise it sh"
+2026-10-20,bb686211d25d9db5,System Design,Amazon,Design GitHub Actions.
+2026-10-20,83a790054cd7c86d,System Design,Amazon,Design Slack.
+2026-10-20,5e4b75ac3a4876db,System Design,Amazon,Design Online Chess.
+2026-10-20,f0391af5ef24b2f0,System Design,Amazon,Design a Payment System.
+2026-10-20,9cce62cceac76f77,System Design,Google,Design an Auto-Completion (Typeahead) System from Scratch.
