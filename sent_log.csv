@@ -440,3 +440,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-10-20,5e4b75ac3a4876db,System Design,Amazon,Design Online Chess.
 2026-10-20,f0391af5ef24b2f0,System Design,Amazon,Design a Payment System.
 2026-10-20,9cce62cceac76f77,System Design,Google,Design an Auto-Completion (Typeahead) System from Scratch.
+2026-10-21,15d4544c0e34480c,DSA,Google,Count people visible to the last person. Given an array representing the heights
+2026-10-21,08660cc0e9124693,DSA,Apple,"Design a data structure supporting insert, delete, getRandom. All in average O(1"
+2026-10-21,3442644587ead881,DSA,Uber,Shortest Subarray with Sum ≥ K
+2026-10-21,5c19b5ae1f7adc74,System Design,Apple,"Design a function that distributes replica updates evenly. For example, if repli"
+2026-10-21,326e828ad3942c4c,System Design,Uber,Design a Stock Exchange Notification System
