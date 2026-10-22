@@ -445,3 +445,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-10-21,3442644587ead881,DSA,Uber,Shortest Subarray with Sum ≥ K
 2026-10-21,5c19b5ae1f7adc74,System Design,Apple,"Design a function that distributes replica updates evenly. For example, if repli"
 2026-10-21,326e828ad3942c4c,System Design,Uber,Design a Stock Exchange Notification System
+2026-10-22,26c05a7598bc3416,System Design,EPAM,"Design a screen broadcast system where ads/videos can be played, replayed, chang"
+2026-10-22,6068829e3547fb1d,System Design,EPAM,"Design a train ticket booking app. Focus was on high-level design, particularly "
+2026-10-22,a919f067324d712c,System Design,FAANG-tier companies (general),Design a real-time chat with end-to-end encryption
+2026-10-22,d91e0a0242a5b485,System Design,FAANG-tier companies (general),Design a feed with an LLM-generated summary on top
+2026-10-22,164999e6a66d4e14,System Design,FAANG-tier companies (general),Design a payment processor with idempotency guarantees
