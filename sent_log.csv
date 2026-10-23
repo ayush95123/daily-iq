@@ -450,3 +450,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-10-22,a919f067324d712c,System Design,FAANG-tier companies (general),Design a real-time chat with end-to-end encryption
 2026-10-22,d91e0a0242a5b485,System Design,FAANG-tier companies (general),Design a feed with an LLM-generated summary on top
 2026-10-22,164999e6a66d4e14,System Design,FAANG-tier companies (general),Design a payment processor with idempotency guarantees
+2026-10-23,dbdc0003195d07ff,DSA,Google,A variation of https://leetcode.com/problems/maximum-good-subarray-sum in which 
+2026-10-23,1dfd7e6c610e08ba,DSA,Google,"Given an array of integers, in one operation you will select any element from th"
+2026-10-23,4028ed98dfc6a12a,DSA,Google,Given a string consisting of only 2 letters 'a' and 'b' such that the number of 
+2026-10-23,768515cdec68c8f3,System Design,Microsoft,Design a TinyURL (basic design discussion)
+2026-10-23,a5124b7ff4c17f9b,System Design,Amazon,Design a Logger system that receives a stream of messages with timestamps. Each 
