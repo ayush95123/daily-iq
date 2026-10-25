@@ -460,3 +460,6 @@ date_sent,question_hash,topic,company,question_snippet
 2026-10-24,1b7779215e7bb1bb,DSA,Microsoft,First Duplicate. Given an integer array...
 2026-10-24,3212c35d6e5fd6b2,System Design,Amazon,Design a file-system storage cache. The interviewer first asked me for my approa
 2026-10-24,88cf996574481c67,System Design,Microsoft,One scenario asked what I would do if a newly deployed version caused latency or
+2026-10-25,44a83bd2bd0bf297,DSA,Google,Given a list of cities and a unidirectional graph of paths connecting the cities
+2026-10-25,447e5ebe89620357,System Design,Google,Design Google Maps.
+2026-10-25,e2e4b5cf367fd480,System Design,Google,Design a Real-Time Collaborative Editor (like Google Docs).
