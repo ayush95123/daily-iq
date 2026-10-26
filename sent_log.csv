@@ -463,3 +463,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-10-25,44a83bd2bd0bf297,DSA,Google,Given a list of cities and a unidirectional graph of paths connecting the cities
 2026-10-25,447e5ebe89620357,System Design,Google,Design Google Maps.
 2026-10-25,e2e4b5cf367fd480,System Design,Google,Design a Real-Time Collaborative Editor (like Google Docs).
+2026-10-26,a024e7cae6969740,DSA,Uber,Bus Routes (LeetCode). This is a canonical shortest-path problem on an implicit 
+2026-10-26,285fd6ae6a371d4c,DSA,Uber,Event assignment / room booking module (calendar-ish). Choose/justify data struc
+2026-10-26,004514d13d2caa56,DSA,Uber,"Trie/prefix search with a 'catch'. Find all words with a prefix, but with an add"
+2026-10-26,3434d07e5739a387,System Design,Google,Design a real-time collaborative editor (like Google Docs). This is increasingly
+2026-10-26,f1c00112c8d90c4f,System Design,Google,Design a distributed key-value store (like Bigtable or DynamoDB). Core design de
