@@ -468,3 +468,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-10-26,004514d13d2caa56,DSA,Uber,"Trie/prefix search with a 'catch'. Find all words with a prefix, but with an add"
 2026-10-26,3434d07e5739a387,System Design,Google,Design a real-time collaborative editor (like Google Docs). This is increasingly
 2026-10-26,f1c00112c8d90c4f,System Design,Google,Design a distributed key-value store (like Bigtable or DynamoDB). Core design de
+2026-10-27,18d179c0257dba4b,DSA,Google,"Design a data structure that supports insert, delete, and getRandom in O(1). Wha"
+2026-10-27,dd1cd01d745ce7b2,DSA,Google,"Given an array, find the length of the longest subarray with sum <= k. Given a b"
+2026-10-27,d12213e98cc2eb91,DSA,Google,Detect a cycle in a linked list and return the starting node.
+2026-10-27,d16cb625fa761a5f,System Design,Amazon,Design a Playlist-Mixing System. The system receives songs from two sources: A D
+2026-10-27,1bcf8627267ad3da,System Design,Meta,System Design — Twitter-Style Posting and Search Platform: The system design rou
