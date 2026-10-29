@@ -473,3 +473,7 @@ date_sent,question_hash,topic,company,question_snippet
 2026-10-27,d12213e98cc2eb91,DSA,Google,Detect a cycle in a linked list and return the starting node.
 2026-10-27,d16cb625fa761a5f,System Design,Amazon,Design a Playlist-Mixing System. The system receives songs from two sources: A D
 2026-10-27,1bcf8627267ad3da,System Design,Meta,System Design — Twitter-Style Posting and Search Platform: The system design rou
+2026-10-29,ac350094043fa630,System Design,MAANG (general),Design a URL Shortening Service: A TinyURL Approach.
+2026-10-29,8e586178c505a9fb,System Design,MAANG (general),Design an Efficient Parking Lot System.
+2026-10-29,5b2fb289939fa48b,System Design,MAANG (general),Design a Fitness Tracking App.
+2026-10-29,814ed3d47090277f,System Design,MAANG (general),Design a Weather Reporting System.
