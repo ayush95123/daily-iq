@@ -477,3 +477,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-10-29,8e586178c505a9fb,System Design,MAANG (general),Design an Efficient Parking Lot System.
 2026-10-29,5b2fb289939fa48b,System Design,MAANG (general),Design a Fitness Tracking App.
 2026-10-29,814ed3d47090277f,System Design,MAANG (general),Design a Weather Reporting System.
+2026-10-30,5085ebcfaaee15d6,DSA,Amazon,Find all active/reachable nodes in a graph. Follow-up: If there are two connecte
+2026-10-30,7d10285953960301,DSA,Amazon,"Given a grid of characters and a word, asked whether the word could be construct"
+2026-10-30,f355f316289af20d,DSA,Google,A hard graph problem. Solved it using both a brute-force approach and an optimiz
+2026-10-30,39e2494e59d03cbe,System Design,Amazon,Design a parking ticketing/receipt system.
+2026-10-30,064455f754847a67,System Design,Amazon,Design a text editor similar to Google Docs. It needed to support an undo functi
