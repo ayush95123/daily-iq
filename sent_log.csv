@@ -482,3 +482,6 @@ date_sent,question_hash,topic,company,question_snippet
 2026-10-30,f355f316289af20d,DSA,Google,A hard graph problem. Solved it using both a brute-force approach and an optimiz
 2026-10-30,39e2494e59d03cbe,System Design,Amazon,Design a parking ticketing/receipt system.
 2026-10-30,064455f754847a67,System Design,Amazon,Design a text editor similar to Google Docs. It needed to support an undo functi
+2026-10-31,ab1cd912376003f3,DSA,Google,Hard graph problem (Google L4 interview).
+2026-10-31,4a3ba3f5f123f605,DSA,Google,Challenging tree/graph-style problem (Google L4 interview).
+2026-10-31,8a42a1fa040c6c59,System Design,Not specified,Our support team answers questions using an internal chatbot grounded on company
