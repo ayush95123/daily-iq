@@ -485,3 +485,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-10-31,ab1cd912376003f3,DSA,Google,Hard graph problem (Google L4 interview).
 2026-10-31,4a3ba3f5f123f605,DSA,Google,Challenging tree/graph-style problem (Google L4 interview).
 2026-10-31,8a42a1fa040c6c59,System Design,Not specified,Our support team answers questions using an internal chatbot grounded on company
+2026-11-02,aafcd3459deb9a25,System Design,Google,Design Google Maps Street View image storage.
+2026-11-02,d8372902feeaf2e4,System Design,Google,Design a global file-sharing service.
+2026-11-02,3968b7c2656d3a6c,System Design,Google,Design a large-scale search autocomplete system.
+2026-11-02,4cbfd9a4dd5372f9,System Design,Google,Design a URL shortener that handles heavy read traffic.
+2026-11-02,6958a00c2878479e,System Design,Amazon,"Design a system where a third-party service, such as Spotify, wanted to use Amaz"
