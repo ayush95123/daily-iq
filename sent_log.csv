@@ -495,3 +495,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-11-03,0a76317d6332283b,DSA,Google,"Given an integer array, find the length of the longest subarray with sum ≤ k."
 2026-11-03,dc362698228252e5,System Design,Google,Deep dive into a project from my resume (a URL shortener). Asked about database 
 2026-11-03,eaff6d7bc2daac67,System Design,Microsoft,Design an AI receptionist platform supporting voice and chat.
+2026-11-06,176ebd30524adfce,DSA,Google,A tough matrix operation problem with several follow up questions.
+2026-11-06,d5439e363909a53d,DSA,Google,"A hard graph problem (solved with brute-force and optimized approaches, followed"
+2026-11-06,dfd6c5652db0e083,DSA,Google,A challenging tree/graph-style problem (solved with brute-force and optimized ap
+2026-11-06,f5aca907521a07ef,System Design,Meesho,Design a notification service with routes and priorities.
+2026-11-06,b7b9df5a9524f258,System Design,Meesho,Design a system like Book My Show (ticket booking system).
