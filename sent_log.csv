@@ -500,3 +500,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-11-06,dfd6c5652db0e083,DSA,Google,A challenging tree/graph-style problem (solved with brute-force and optimized ap
 2026-11-06,f5aca907521a07ef,System Design,Meesho,Design a notification service with routes and priorities.
 2026-11-06,b7b9df5a9524f258,System Design,Meesho,Design a system like Book My Show (ticket booking system).
+2026-11-08,48662f7005930fd8,DSA,Walmart Global Tech,Median per category without a median function. Gaps and islands on consecutive l
+2026-11-08,8c35b967078fb32c,DSA,Walmart Global Tech,Two sum variant and group anagrams.
+2026-11-08,61cd07e7466261c4,DSA,Amazon (AWS SDE-I),A tough trees question (DSA) and LLD questions.
+2026-11-08,ed810225b9ccf0da,System Design,Swiggy,Design an end-to-end order pipeline. They pushed on SCD Type 2 for price history
+2026-11-08,68533f70a2c09417,System Design,Swiggy,Design incremental ingestion for high-frequency order events.
