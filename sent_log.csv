@@ -505,3 +505,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-11-08,61cd07e7466261c4,DSA,Amazon (AWS SDE-I),A tough trees question (DSA) and LLD questions.
 2026-11-08,ed810225b9ccf0da,System Design,Swiggy,Design an end-to-end order pipeline. They pushed on SCD Type 2 for price history
 2026-11-08,68533f70a2c09417,System Design,Swiggy,Design incremental ingestion for high-frequency order events.
+2026-11-09,d1214de45cf35e4d,DSA,Google,Find how many lakes are within an ocean.
+2026-11-09,cedbbdf938b28b46,DSA,Amazon,A dynamic programming variant of house robber.
+2026-11-09,023b89a2c69a30da,DSA,Amazon,Longest substring without repeating characters.
+2026-11-09,0f4e870c2a611b6f,System Design,Amazon,Design a shopping cart for a major e-commerce platform like Amazon.
+2026-11-09,6c59f1d691e7ed59,System Design,Microsoft,"Design a distributed key-value store (with a long discussion of sharding, replic"
