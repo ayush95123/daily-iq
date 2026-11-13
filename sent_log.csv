@@ -510,3 +510,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-11-09,023b89a2c69a30da,DSA,Amazon,Longest substring without repeating characters.
 2026-11-09,0f4e870c2a611b6f,System Design,Amazon,Design a shopping cart for a major e-commerce platform like Amazon.
 2026-11-09,6c59f1d691e7ed59,System Design,Microsoft,"Design a distributed key-value store (with a long discussion of sharding, replic"
+2026-11-13,d5efdfb2a27dec1b,DSA,Apple,"Design a data structure supporting: insert, delete, getRandom. All in average O("
+2026-11-13,8ab830acd67e937d,DSA,Google,"Given a directed graph where every edge has a security level, find the minimum v"
+2026-11-13,fdbdbe94a6e1a8f7,DSA,Google,Count people visible to the last person. Given an array representing the heights
+2026-11-13,dd7aec447ba849e1,System Design,Uber,Design a real-time dashboard that shows order volume and delivery times for Uber
+2026-11-13,c1773891d88d5267,System Design,Microsoft,Design a system to detect flaky tests.
