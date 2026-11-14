@@ -515,3 +515,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-11-13,fdbdbe94a6e1a8f7,DSA,Google,Count people visible to the last person. Given an array representing the heights
 2026-11-13,dd7aec447ba849e1,System Design,Uber,Design a real-time dashboard that shows order volume and delivery times for Uber
 2026-11-13,c1773891d88d5267,System Design,Microsoft,Design a system to detect flaky tests.
+2026-11-14,1a4377c7347a6f8f,DSA,Google,A medium-level hashmap question. (The candidate did not remember the exact quest
+2026-11-14,373bfe308888a48f,DSA,Google,"A medium-hard graph problem involving reachability, solved using 2D DP."
+2026-11-14,5b8e1224e68e3420,DSA,Google,"A standard LeetCode matrix problem, solved using brute force (sub-optimal soluti"
+2026-11-14,2643b77b3c0f0e98,System Design,Reddit,Design a tennis-like game engine where you get game events and have functions fo
+2026-11-14,04e8c5cb322d1082,System Design,Big Tech Company (unspecified),Design a URL shortener. (The candidate discussed hashing and database sharding b
