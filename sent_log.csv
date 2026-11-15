@@ -520,3 +520,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-11-14,5b8e1224e68e3420,DSA,Google,"A standard LeetCode matrix problem, solved using brute force (sub-optimal soluti"
 2026-11-14,2643b77b3c0f0e98,System Design,Reddit,Design a tennis-like game engine where you get game events and have functions fo
 2026-11-14,04e8c5cb322d1082,System Design,Big Tech Company (unspecified),Design a URL shortener. (The candidate discussed hashing and database sharding b
+2026-11-15,2dcac3bbde767fa4,DSA,EPAM,Find the Longest Subarray with Sum K. Given an array containing both positive an
+2026-11-15,1c5d6750ce829f06,DSA,EPAM,"Minimum Window Substring. Given two strings, S and T, find the minimum window in"
+2026-11-15,2ad4b0e3458444e8,DSA,EPAM,Median of Two Sorted Arrays. Given two sorted arrays nums1 and nums2 of size m a
+2026-11-15,1d42ebb974fcc5ea,System Design,Google,Design a search system (web crawler + search)
+2026-11-15,be0c20f810ea4ced,System Design,EPAM,How would you send 1 Million Notifications Without Crashing Your System?
