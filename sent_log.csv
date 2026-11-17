@@ -525,3 +525,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-11-15,2ad4b0e3458444e8,DSA,EPAM,Median of Two Sorted Arrays. Given two sorted arrays nums1 and nums2 of size m a
 2026-11-15,1d42ebb974fcc5ea,System Design,Google,Design a search system (web crawler + search)
 2026-11-15,be0c20f810ea4ced,System Design,EPAM,How would you send 1 Million Notifications Without Crashing Your System?
+2026-11-17,c2ab221ba112697c,DSA,Google,"Given a list of words, find all pairs of words that can be concatenated to form "
+2026-11-17,e7017252a5f457ed,DSA,Apple,"Given an array of integers, find the maximum sum of a contiguous subarray. Provi"
+2026-11-17,180d898747a48150,DSA,Amazon,Implement a function to find the Kth largest element in an unsorted array. Discu
+2026-11-17,82106408abfdb9cd,System Design,Amazon,Design a system to store and retrieve user preferences for a large-scale e-comme
+2026-11-17,76ef684a6589abe4,System Design,Microsoft,Implement a 'rate limiter' for an API that allows a maximum of N requests per se
