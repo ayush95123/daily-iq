@@ -530,3 +530,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-11-17,180d898747a48150,DSA,Amazon,Implement a function to find the Kth largest element in an unsorted array. Discu
 2026-11-17,82106408abfdb9cd,System Design,Amazon,Design a system to store and retrieve user preferences for a large-scale e-comme
 2026-11-17,76ef684a6589abe4,System Design,Microsoft,Implement a 'rate limiter' for an API that allows a maximum of N requests per se
+2026-11-18,3b7d614ec35ab27e,DSA,Oracle,Cheapest Flights Within K Stops
+2026-11-18,f9d883377ae0a6c0,DSA,"Medium (general example, not attributed to a specific company)","Given an unsorted array, find the length of the longest sequence of consecutive "
+2026-11-18,cd99fdbf68ac9fce,DSA,"Medium (general example, not attributed to a specific company)","Given an integer array and a target K, count the number of contiguous subarrays "
+2026-11-18,f92f88f20e733f18,System Design,"Revarta (general example, not attributed to a specific company)",Design an API rate limiter.
+2026-11-18,b396f7f495d54561,System Design,"Educative.io (general example, not attributed to a specific company)",Design a URL-shortening service like TinyURL or bit.ly.
