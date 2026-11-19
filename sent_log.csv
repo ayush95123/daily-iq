@@ -535,3 +535,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-11-18,cd99fdbf68ac9fce,DSA,"Medium (general example, not attributed to a specific company)","Given an integer array and a target K, count the number of contiguous subarrays "
 2026-11-18,f92f88f20e733f18,System Design,"Revarta (general example, not attributed to a specific company)",Design an API rate limiter.
 2026-11-18,b396f7f495d54561,System Design,"Educative.io (general example, not attributed to a specific company)",Design a URL-shortening service like TinyURL or bit.ly.
+2026-11-19,6df51257648e4652,DSA,Microsoft,Implement the Linux `cp` command.
+2026-11-19,2f742eb2d1b56c0c,DSA,LinkedIn,"Given a mobile keypad where each number maps to a set of alphabets, along with a"
+2026-11-19,17192de9898b8e5a,DSA,LinkedIn,"Given a binary sequence, find the length of the longest contiguous subarray cont"
+2026-11-19,20dd22e9b8d43889,System Design,LinkedIn,Design a system that tracks exceptions thrown by a service and identifies the to
+2026-11-19,562b2496518f23d5,System Design,LinkedIn,Scale a single-node NoSQL key-value store to fifty million key-value pairs at on
