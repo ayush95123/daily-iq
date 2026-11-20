@@ -540,3 +540,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-11-19,17192de9898b8e5a,DSA,LinkedIn,"Given a binary sequence, find the length of the longest contiguous subarray cont"
 2026-11-19,20dd22e9b8d43889,System Design,LinkedIn,Design a system that tracks exceptions thrown by a service and identifies the to
 2026-11-19,562b2496518f23d5,System Design,LinkedIn,Scale a single-node NoSQL key-value store to fifty million key-value pairs at on
+2026-11-20,33b3f03128d3a541,DSA,Google,Count people visible to the last person: Given an array representing the heights
+2026-11-20,96eabffba1fc5229,DSA,Unspecified (Senior Engineer/Solution Architect),"Given a list of intervals, merge all overlapping intervals. Follow-up: What if t"
+2026-11-20,4ebc29d94575c1de,System Design,Microsoft,Low-level design of a core platform messaging/alerting system. Structuring the c
+2026-11-20,e327fabec875ca64,System Design,Microsoft,"Design a real-time collaborative application, with a strict focus on state synch"
+2026-11-20,1c94d594c8b1e50e,System Design,Microsoft,"Building a distributed, highly available unique identifier generation system cap"
