@@ -550,3 +550,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-11-21,d5b2c91df000c175,DSA,Microsoft,"Given n, count the number of all possible BSTs."
 2026-11-21,c36cfc89dab8fc1d,System Design,Amazon,Design a Playlist-Mixing System. The system receives songs from two sources: A D
 2026-11-21,cf110008eb9733ca,System Design,Microsoft,Design an e-Health Record System for a chain of Hospitals.
+2026-11-22,2b6f418c6fb9baa4,DSA,Google,"Given a binary tree and a sum range [lmin, lmax], determine whether there exists"
+2026-11-22,48b26ee677fceeff,DSA,Amazon,"You are given an integer array arr and a list of pairs. Each pair [L, R] is a su"
+2026-11-22,302828e9862b69e2,System Design,Apple,Design a messaging system that supports multi-device sync while maintaining stri
+2026-11-22,3d8eba5ee21a9d24,System Design,Microsoft,"Design an e-Health Record System for a chain of Hospitals, focusing on high avai"
+2026-11-22,31a81fbfa2a1efed,System Design,Microsoft,Design a URL Shortener at a high level.
