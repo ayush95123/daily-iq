@@ -555,3 +555,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-11-22,302828e9862b69e2,System Design,Apple,Design a messaging system that supports multi-device sync while maintaining stri
 2026-11-22,3d8eba5ee21a9d24,System Design,Microsoft,"Design an e-Health Record System for a chain of Hospitals, focusing on high avai"
 2026-11-22,31a81fbfa2a1efed,System Design,Microsoft,Design a URL Shortener at a high level.
+2026-11-24,b18314bcba4820e9,DSA,Google,Implement a medium-level hashmap question that is not seen on LeetCode but is ea
+2026-11-24,1bdf6a012fed1c67,DSA,Google,Solve a medium-hard graph problem which involves reachability using 2D DP.
+2026-11-24,602b0b4eb2bc5f0d,DSA,Google,Solve a standard LeetCode matrix problem using brute force.
+2026-11-24,178a9d490ee96108,System Design,Reddit,Design a function that returns the top K posts from a subreddit.
+2026-11-24,49174df47480471d,System Design,CloudEagle,"Discuss backend development and system design, including Java, Spring Boot, API "
