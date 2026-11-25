@@ -560,3 +560,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-11-24,602b0b4eb2bc5f0d,DSA,Google,Solve a standard LeetCode matrix problem using brute force.
 2026-11-24,178a9d490ee96108,System Design,Reddit,Design a function that returns the top K posts from a subreddit.
 2026-11-24,49174df47480471d,System Design,CloudEagle,"Discuss backend development and system design, including Java, Spring Boot, API "
+2026-11-25,6a96a14b144819e6,DSA,Meta,Fix the provided code for a rate limiter with a fixed-window-counter strategy.
+2026-11-25,beb9f8b65ccbaf68,DSA,Amazon,Implement a function to parse logs and group events.
+2026-11-25,28a8facb76bf26f3,DSA,Amazon,Write a function to simulate a queue.
+2026-11-25,7074bf3f6723ab44,System Design,Amazon,Design a system to compute billing.
+2026-11-25,50619a458e50ab38,System Design,Amazon,Design a system to schedule resources.
