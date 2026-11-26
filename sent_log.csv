@@ -565,3 +565,8 @@ date_sent,question_hash,topic,company,question_snippet
 2026-11-25,28a8facb76bf26f3,DSA,Amazon,Write a function to simulate a queue.
 2026-11-25,7074bf3f6723ab44,System Design,Amazon,Design a system to compute billing.
 2026-11-25,50619a458e50ab38,System Design,Amazon,Design a system to schedule resources.
+2026-11-26,6195a21079905c53,DSA,"Reddit, Stripe",Implement something in real-time within a browser-based editor or shared documen
+2026-11-26,634e94dd22a86a99,System Design,Unnamed (large tech companies),Design a chat system.
+2026-11-26,842785540ceceb4f,System Design,Unnamed (large tech companies),Design a notification service.
+2026-11-26,b15f734f8500ff27,System Design,Unnamed (large tech companies),Design YouTube.
+2026-11-26,58d8a0c933787b48,System Design,Unnamed (large tech companies),Design a search engine.
